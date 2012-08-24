@@ -1,0 +1,91 @@
+#NEXUS
+
+[ID: 5662055869]
+begin taxa;
+	dimensions ntax=36;
+	taxlabels
+		hvPORB
+		atPORC
+		atPORA
+		csPORA
+		hvPORA
+		taPORA
+		atPORB
+		asPOR
+		crPOR
+		dcPOR
+		mpPOR
+		psPOR
+		pbPOR
+		sPOR
+		Picea_sitchensis-1
+		Vitis_vinifera-1
+		Vitis_vinifera-2
+		Picea_sitchensis-2
+		Lycopersicon_esculentum-1
+		Ricinus_communis-2
+		Chorispora_bungeana
+		Populus_trichocarpa-1
+		Nicotiana_tabacum-1
+		Zea_mays-2
+		Ricinus_communis-1
+		Nicotiana_tabacum-2
+		Physcomitrella_patens
+		Amaranthus_tricolor
+		Oryza_sativa-1
+		Lycopersicon_esculentum-2
+		Vigna_radiata
+		Populus_trichocarpa-2
+		Oryza_sativa-2
+		Pinus_mugo
+		Musa_acuminata
+		Zea_mays-1
+		;end;
+begin trees;
+	translate
+		1	hvPORB,
+		2	atPORC,
+		3	atPORA,
+		4	csPORA,
+		5	hvPORA,
+		6	taPORA,
+		7	atPORB,
+		8	asPOR,
+		9	crPOR,
+		10	dcPOR,
+		11	mpPOR,
+		12	psPOR,
+		13	pbPOR,
+		14	sPOR,
+		15	Picea_sitchensis-1,
+		16	Vitis_vinifera-1,
+		17	Vitis_vinifera-2,
+		18	Picea_sitchensis-2,
+		19	Lycopersicon_esculentum-1,
+		20	Ricinus_communis-2,
+		21	Chorispora_bungeana,
+		22	Populus_trichocarpa-1,
+		23	Nicotiana_tabacum-1,
+		24	Zea_mays-2,
+		25	Ricinus_communis-1,
+		26	Nicotiana_tabacum-2,
+		27	Physcomitrella_patens,
+		28	Amaranthus_tricolor,
+		29	Oryza_sativa-1,
+		30	Lycopersicon_esculentum-2,
+		31	Vigna_radiata,
+		32	Populus_trichocarpa-2,
+		33	Oryza_sativa-2,
+		34	Pinus_mugo,
+		35	Musa_acuminata,
+		36	Zea_mays-1
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (1:0.064325,(((((((2:0.145044,(20:0.094452,32:0.071936)1.00:0.035474)0.81:0.025028,17:0.056763)0.96:0.029527,((19:0.016203,26:0.023069)1.00:0.078355,28:0.057800)1.00:0.042810)1.00:0.026448,(((3:0.082632,(7:0.040839,21:0.024854)1.00:0.047889)1.00:0.059888,12:0.078860)0.98:0.024752,((4:0.063044,31:0.151269)0.98:0.015503,(22:0.090631,25:0.051517)1.00:0.024290)0.99:0.018315)0.64:0.022706,10:0.106665,16:0.074000)0.70:0.017917,(23:0.069525,30:0.069032)1.00:0.051468)1.00:0.037433,((((9:0.276391,(13:0.138354,14:0.197112)1.00:0.320939)1.00:0.112691,27:0.150452)1.00:0.067688,11:0.241951)1.00:0.075131,(15:0.062541,(18:0.034847,34:0.030113)0.99:0.015777)1.00:0.096100)1.00:0.056216)1.00:0.031203,((((5:0.017081,6:0.005749)1.00:0.023980,8:0.022443)1.00:0.084481,(29:0.065173,36:0.046494)0.66:0.031176)1.00:0.079097,35:0.125238)1.00:0.087874)1.00:0.089281,(24:0.050219,33:0.096313)0.76:0.027274);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (1:0.064325,(((((((2:0.145044,(20:0.094452,32:0.071936):0.035474):0.025028,17:0.056763):0.029527,((19:0.016203,26:0.023069):0.078355,28:0.057800):0.042810):0.026448,(((3:0.082632,(7:0.040839,21:0.024854):0.047889):0.059888,12:0.078860):0.024752,((4:0.063044,31:0.151269):0.015503,(22:0.090631,25:0.051517):0.024290):0.018315):0.022706,10:0.106665,16:0.074000):0.017917,(23:0.069525,30:0.069032):0.051468):0.037433,((((9:0.276391,(13:0.138354,14:0.197112):0.320939):0.112691,27:0.150452):0.067688,11:0.241951):0.075131,(15:0.062541,(18:0.034847,34:0.030113):0.015777):0.096100):0.056216):0.031203,((((5:0.017081,6:0.005749):0.023980,8:0.022443):0.084481,(29:0.065173,36:0.046494):0.031176):0.079097,35:0.125238):0.087874):0.089281,(24:0.050219,33:0.096313):0.027274);
+end;

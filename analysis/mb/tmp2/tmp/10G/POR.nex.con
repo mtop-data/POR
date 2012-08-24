@@ -1,0 +1,178 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=104;
+	taxlabels
+	LISAS-Q41249_PORA_CUCSA[&!color=#-65536]
+	2Vigna_radiata_1796
+	LISAS-P13653_PORA_HORVU[&!color=#-65536]
+	LISAS-Q41578_PORA_WHEAT[&!color=#-65536]
+	LISAS-P15904_POR_AVESA[&!color=#-65536]
+	Avena_sativa_778
+	2Oryza_sativa_Indica_Group_1052
+	25_Zea_mays_82
+	92_Zea_mays_332
+	21_Musa_acuminata_66
+	Oryza_sativa_Japonica_Group_2380
+	2Oryza_sativa_Indica_Group_232
+	Hordeum_vulgare_3106
+	Zea_mays_3172
+	LISAS-Q39617_POR_CHLRE[&!color=#-65536]
+	LISAS-O66148_POR_PLEBO[&!color=#-65536]
+	2Dinoroseobacter_shibae_DFL_12_1380
+	'Cyanobium_sp._PCC_7001_1384'
+	'Synechococcus_sp._RS9917_1392'
+	uncultured_marine_type-A_Synechococcus_5B2_1394
+	2uncultured_marine_type-A_Synechococcus_GOM_4P21_182
+	uncultured_marine_type-A_Synechococcus_GOM_5D20_1412
+	'2Synechococcus_sp._CC9605_1398'
+	2uncultured_marine_type-A_Synechococcus_GOM_3O12_204
+	'Synechococcus_sp._WH_8102_1416'
+	'2Synechococcus_sp._WH_7805_206'
+	'Synechococcus_sp._BL107_1422'
+	'2Synechococcus_sp._CC9311_220'
+	'2Synechococcus_sp._RS9916_1400'
+	'2Prochlorococcus_marinus_subsp._marinus_str._CCMP1375_226'
+	'2Prochlorococcus_marinus_str._MIT_9515_234'
+	'71_Prochlorococcus_marinus_str._MIT_9313_220'
+	74_Paulinella_chromatophora_232
+	'Synechococcus_sp._WH_5701_1472'
+	'Synechococcus_sp._RCC307_1396'
+	61_Synechococcus_elongatus_PCC_6301_178
+	LISAS-Q59987_POR_SYNY3[&!color=#-65536]
+	Thermosynechococcus_elongatus_BP-1_1440
+	'Synechococcus_sp._PCC_7335_1364'
+	'Synechococcus_sp._PCC_7002_150'
+	Trichodesmium_erythraeum_IMS101_1332
+	Acaryochloris_marina_MBIC11017_672
+	'Lyngbya_sp._PCC_8106_1448'
+	Nostoc_punctiforme_PCC_73102_1344
+	Fremyella_diplosiphon_Fd33_1454
+	'2Nostoc_sp._PCC_7120_1338'
+	Crocosphaera_watsonii_WH_8501_1474
+	'2Cyanothece_sp._CCY0110_1346'
+	65_Microcystis_aeruginosa_PCC_7806_188
+	2Arthrospira_maxima_CS-328_1362
+	'2Synechococcus_sp._JA-2-3B_apos_a_2-13__162'
+	'55_Cyanothece_sp._PCC_8801_164'
+	'2Cyanothece_sp._PCC_7425_170'
+	2Microcoleus_chthonoplastes_PCC_7420_132
+	'2Cyanothece_sp._PCC_7424_1482'
+	'41_Cyanothece_sp._PCC_7822_132'
+	78__apos_Nostoc_azollae_apos__0708_252
+	2Nodularia_spumigena_CCY9414_1358
+	83__apos_Nostoc_azollae_apos__0708_278
+	2Gloeobacter_violaceus_PCC_7421_228
+	84_Ostreococcus_lucimarinus_CCE9901_280
+	85_Ostreococcus_tauri_282
+	95_Gymnochlora_stellata_338
+	90_Thalassiosira_pseudonana_CCMP1335_302
+	'96_Synechococcus_sp._WH_7805_346'
+	'34_Prochlorococcus_marinus_str._MIT_9312_168'
+	58_Phaeodactylum_tricornutum_CCAP_1055_1_170
+	59_Thalassiosira_pseudonana_CCMP1335_172
+	76_Thalassiosira_pseudonana_CCMP1335_248
+	77_Phaeodactylum_tricornutum_CCAP_1055_1_250
+	66_Bigelowiella_natans_192
+	62_Ostreococcus_tauri_182
+	69_Ostreococcus_lucimarinus_CCE9901_212
+	LISAS-O80333_POR_MARPA[&!color=#-65536]
+	'Physcomitrella_patens_subsp._patens_3686'
+	Picea_sitchensis_182
+	63_Pinus_mugo_184
+	81_Cupressus_sempervirens_274
+	Picea_sitchensis_622
+	18_Pinus_mugo_58
+	82_Pinus_taeda_276
+	LISAS-P21218_PORB_ARATH[&!color=#-65536]
+	105_Arabidopsis_thaliana_424
+	Chorispora_bungeana_2466
+	Arabidopsis_thaliana_3182
+	LISAS-Q01289_POR_PEA[&!color=#-65536]
+	LISAS-Q9SDT1_POR_DAUCA[&!color=#-65536]
+	89_Lycopersicon_esculentum_292
+	Vitis_vinifera_372
+	Vitis_vinifera_476
+	Ricinus_communis_2346
+	2Populus_trichocarpa_52
+	Lycopersicon_esculentum_1718
+	Nicotiana_tabacum_3630
+	Amaranthus_tricolor_3714
+	Arabidopsis_thaliana_1954
+	Nicotiana_tabacum_3078
+	2Lycopersicon_esculentum_1092
+	86_Lycopersicon_esculentum_284
+	88_Taraxacum_officinale_288
+	91_Potamogeton_distinctus_322
+	Populus_trichocarpa_2528
+	Populus_trichocarpa_3740
+	Ricinus_communis_3410
+;
+end;
+
+begin trees;
+	tree con_50_majrule = [&R] (LISAS-Q41249_PORA_CUCSA:0.062404,2Vigna_radiata_1796:0.153422,((((((((LISAS-P13653_PORA_HORVU:0.017937,LISAS-Q41578_PORA_WHEAT:0.004998)[&label=1.0]:0.029742,(LISAS-P15904_POR_AVESA:0.003169,Avena_sativa_778:0.003226)[&label=1.0]:0.021895)[&label=1.0]:0.106646,2Oryza_sativa_Indica_Group_1052:0.071092,(25_Zea_mays_82:0.018945,92_Zea_mays_332:0.038016)[&label=0.83]:0.031668)[&label=1.0]:0.08593,21_Musa_acuminata_66:0.127524)[&label=0.96]:0.081923,((Oryza_sativa_Japonica_Group_2380:0.00374,2Oryza_sativa_Indica_Group_232:0.036104)[&label=0.99]:0.079544,Hordeum_vulgare_3106:0.073901,Zea_mays_3172:0.04877)[&label=0.81]:0.094069)[&label=0.64]:0.025168,(((LISAS-Q39617_POR_CHLRE:0.276102,((((((((((((LISAS-O66148_POR_PLEBO:0.06584,2Dinoroseobacter_shibae_DFL_12_1380:0.356741)[&label=1.0]:0.064713,((((('Cyanobium_sp._PCC_7001_1384':0.095425,(('Synechococcus_sp._RS9917_1392':0.078225,(((uncultured_marine_type-A_Synechococcus_5B2_1394:0.061606,2uncultured_marine_type-A_Synechococcus_GOM_4P21_182:0.04461)[&label=0.83]:0.01556,((((uncultured_marine_type-A_Synechococcus_GOM_5D20_1412:0.051515,('2Synechococcus_sp._CC9605_1398':0.030987,2uncultured_marine_type-A_Synechococcus_GOM_3O12_204:0.0322)[&label=0.75]:0.018963)[&label=0.56]:0.011643,'Synechococcus_sp._WH_8102_1416':0.027099)[&label=0.91]:0.023178,'2Synechococcus_sp._WH_7805_206':0.019217)[&label=1.0]:0.030848,'Synechococcus_sp._BL107_1422':0.111066)[&label=0.88]:0.024531,'2Synechococcus_sp._CC9311_220':0.13682)[&label=0.97]:0.040678,'2Synechococcus_sp._RS9916_1400':0.09467)[&label=1.0]:0.070266)[&label=0.8]:0.029198,(('2Prochlorococcus_marinus_subsp._marinus_str._CCMP1375_226':0.143097,'2Prochlorococcus_marinus_str._MIT_9515_234':0.46278)[&label=1.0]:0.099591,'71_Prochlorococcus_marinus_str._MIT_9313_220':0.137617)[&label=1.0]:0.121535)[&label=0.87]:0.029794)[&label=1.0]:0.086755,74_Paulinella_chromatophora_232:0.227298)[&label=0.66]:0.044052,'Synechococcus_sp._WH_5701_1472':0.076716)[&label=1.0]:0.085049,'Synechococcus_sp._RCC307_1396':0.237209)[&label=1.0]:0.093059,61_Synechococcus_elongatus_PCC_6301_178:0.079937)[&label=0.99]:0.048159)[&label=1.0]:0.054761,(LISAS-Q59987_POR_SYNY3:0.162357,Thermosynechococcus_elongatus_BP-1_1440:0.136127)[&label=1.0]:0.059955)[&label=1.0]:0.057722,('Synechococcus_sp._PCC_7335_1364':0.202,'Synechococcus_sp._PCC_7002_150':0.174457)[&label=1.0]:0.049188)[&label=1.0]:0.051256,Trichodesmium_erythraeum_IMS101_1332:0.144916)[&label=0.89]:0.031499,(Acaryochloris_marina_MBIC11017_672:0.22589,'Lyngbya_sp._PCC_8106_1448':0.084035)[&label=0.98]:0.040889)[&label=1.0]:0.057069,(((Nostoc_punctiforme_PCC_73102_1344:0.067443,((Fremyella_diplosiphon_Fd33_1454:0.093622,'2Nostoc_sp._PCC_7120_1338':0.049388)[&label=0.84]:0.024295,((((Crocosphaera_watsonii_WH_8501_1474:0.071317,'2Cyanothece_sp._CCY0110_1346':0.031453)[&label=1.0]:0.077765,65_Microcystis_aeruginosa_PCC_7806_188:0.159533)[&label=0.93]:0.021455,2Arthrospira_maxima_CS-328_1362:0.117101)[&label=0.87]:0.02514,(('2Synechococcus_sp._JA-2-3B_apos_a_2-13__162':0.202033,'55_Cyanothece_sp._PCC_8801_164':0.137172)[&label=0.99]:0.052628,'2Cyanothece_sp._PCC_7425_170':0.178014)[&label=0.8]:0.01942)[&label=0.99]:0.031743)[&label=0.99]:0.045225)[&label=0.95]:0.022556,2Microcoleus_chthonoplastes_PCC_7420_132:0.081342)[&label=0.99]:0.047087,(('2Cyanothece_sp._PCC_7424_1482':0.066021,'41_Cyanothece_sp._PCC_7822_132':0.1173)[&label=1.0]:0.084489,78__apos_Nostoc_azollae_apos__0708_252:0.067183)[&label=0.86]:0.031647)[&label=0.92]:0.026009)[&label=0.97]:0.033444,2Nodularia_spumigena_CCY9414_1358:0.089584)[&label=1.0]:0.064168,83__apos_Nostoc_azollae_apos__0708_278:0.028095)[&label=0.99]:0.053686,2Gloeobacter_violaceus_PCC_7421_228:0.189679)[&label=1.0]:0.128391,((((84_Ostreococcus_lucimarinus_CCE9901_280:0.133185,85_Ostreococcus_tauri_282:0.185546)[&label=1.0]:0.211654,95_Gymnochlora_stellata_338:0.408052)[&label=0.7]:0.11037,90_Thalassiosira_pseudonana_CCMP1335_302:0.440406)[&label=1.0]:0.174042,('96_Synechococcus_sp._WH_7805_346':0.429839,'34_Prochlorococcus_marinus_str._MIT_9312_168':0.762512)[&label=1.0]:0.237602)[&label=1.0]:0.495631)[&label=0.96]:0.058727,((((58_Phaeodactylum_tricornutum_CCAP_1055_1_170:0.085698,59_Thalassiosira_pseudonana_CCMP1335_172:0.107447)[&label=1.0]:0.245101,(76_Thalassiosira_pseudonana_CCMP1335_248:0.093895,77_Phaeodactylum_tricornutum_CCAP_1055_1_250:0.18059)[&label=1.0]:0.348122)[&label=1.0]:0.14781,66_Bigelowiella_natans_192:0.328675)[&label=1.0]:0.176822,(62_Ostreococcus_tauri_182:0.070191,69_Ostreococcus_lucimarinus_CCE9901_212:0.073442)[&label=1.0]:0.493062)[&!rotate=true,label=1.0]:0.118589)[&label=1.0]:0.107284)[&label=1.0]:0.134887,(LISAS-O80333_POR_MARPA:0.225977,'Physcomitrella_patens_subsp._patens_3686':0.198419)[&label=0.88]:0.040026)[&label=1.0]:0.078583,(((Picea_sitchensis_182:0.01656,63_Pinus_mugo_184:0.051129)[&label=0.79]:0.018075,81_Cupressus_sempervirens_274:0.152828)[&label=0.94]:0.031849,(Picea_sitchensis_622:0.036385,18_Pinus_mugo_58:0.023016)[&label=0.56]:0.01165,82_Pinus_taeda_276:0.02382)[&label=1.0]:0.135071)[&label=0.98]:0.051627)[&label=0.63]:0.048847,((((LISAS-P21218_PORB_ARATH:0.01073,105_Arabidopsis_thaliana_424:0.014048)[&label=1.0]:0.033103,Chorispora_bungeana_2466:0.024393)[&label=1.0]:0.05246,Arabidopsis_thaliana_3182:0.086546)[&label=1.0]:0.056998,LISAS-Q01289_POR_PEA:0.073585)[&label=0.91]:0.020594,(LISAS-Q9SDT1_POR_DAUCA:0.052976,89_Lycopersicon_esculentum_292:0.071636)[&label=0.67]:0.062449,Vitis_vinifera_372:0.076001,((Vitis_vinifera_476:0.056496,(Ricinus_communis_2346:0.094542,2Populus_trichocarpa_52:0.07108)[&label=0.99]:0.037043)[&label=0.63]:0.0313,(((Lycopersicon_esculentum_1718:0.016306,Nicotiana_tabacum_3630:0.024602)[&label=1.0]:0.076466,Amaranthus_tricolor_3714:0.054918)[&label=0.88]:0.036739,Arabidopsis_thaliana_1954:0.144319)[&label=0.58]:0.029283)[&label=0.64]:0.019119,(Nicotiana_tabacum_3078:0.053029,2Lycopersicon_esculentum_1092:0.069106,86_Lycopersicon_esculentum_284:0.017372)[&label=0.56]:0.048913,88_Taraxacum_officinale_288:0.149903,91_Potamogeton_distinctus_322:0.085674)[&label=0.7]:0.020702,((Populus_trichocarpa_2528:0.069543,Populus_trichocarpa_3740:0.042859)[&label=0.81]:0.025157,Ricinus_communis_3410:0.049807)[&label=0.73]:0.026898)[&label=0.93]:0.016983);
+	tree con_50_majrule = [&R] (LISAS-Q41249_PORA_CUCSA:0.062404,2Vigna_radiata_1796:0.153422,((((((((LISAS-P13653_PORA_HORVU:0.017937,LISAS-Q41578_PORA_WHEAT:0.004998):0.029742,(LISAS-P15904_POR_AVESA:0.003169,Avena_sativa_778:0.003226):0.021895):0.106646,2Oryza_sativa_Indica_Group_1052:0.071092,(25_Zea_mays_82:0.018945,92_Zea_mays_332:0.038016):0.031668):0.08593,21_Musa_acuminata_66:0.127524):0.081923,((Oryza_sativa_Japonica_Group_2380:0.00374,2Oryza_sativa_Indica_Group_232:0.036104):0.079544,Hordeum_vulgare_3106:0.073901,Zea_mays_3172:0.04877):0.094069):0.025168,(((LISAS-Q39617_POR_CHLRE:0.276102,((((((((((((LISAS-O66148_POR_PLEBO:0.06584,2Dinoroseobacter_shibae_DFL_12_1380:0.356741):0.064713,((((('Cyanobium_sp._PCC_7001_1384':0.095425,(('Synechococcus_sp._RS9917_1392':0.078225,(((uncultured_marine_type-A_Synechococcus_5B2_1394:0.061606,2uncultured_marine_type-A_Synechococcus_GOM_4P21_182:0.04461):0.01556,((((uncultured_marine_type-A_Synechococcus_GOM_5D20_1412:0.051515,('2Synechococcus_sp._CC9605_1398':0.030987,2uncultured_marine_type-A_Synechococcus_GOM_3O12_204:0.0322):0.018963):0.011643,'Synechococcus_sp._WH_8102_1416':0.027099):0.023178,'2Synechococcus_sp._WH_7805_206':0.019217):0.030848,'Synechococcus_sp._BL107_1422':0.111066):0.024531,'2Synechococcus_sp._CC9311_220':0.13682):0.040678,'2Synechococcus_sp._RS9916_1400':0.09467):0.070266):0.029198,(('2Prochlorococcus_marinus_subsp._marinus_str._CCMP1375_226':0.143097,'2Prochlorococcus_marinus_str._MIT_9515_234':0.46278):0.099591,'71_Prochlorococcus_marinus_str._MIT_9313_220':0.137617):0.121535):0.029794):0.086755,74_Paulinella_chromatophora_232:0.227298):0.044052,'Synechococcus_sp._WH_5701_1472':0.076716):0.085049,'Synechococcus_sp._RCC307_1396':0.237209):0.093059,61_Synechococcus_elongatus_PCC_6301_178:0.079937):0.048159):0.054761,(LISAS-Q59987_POR_SYNY3:0.162357,Thermosynechococcus_elongatus_BP-1_1440:0.136127):0.059955):0.057722,('Synechococcus_sp._PCC_7335_1364':0.202,'Synechococcus_sp._PCC_7002_150':0.174457):0.049188):0.051256,Trichodesmium_erythraeum_IMS101_1332:0.144916):0.031499,(Acaryochloris_marina_MBIC11017_672:0.22589,'Lyngbya_sp._PCC_8106_1448':0.084035):0.040889):0.057069,(((Nostoc_punctiforme_PCC_73102_1344:0.067443,((Fremyella_diplosiphon_Fd33_1454:0.093622,'2Nostoc_sp._PCC_7120_1338':0.049388):0.024295,((((Crocosphaera_watsonii_WH_8501_1474:0.071317,'2Cyanothece_sp._CCY0110_1346':0.031453):0.077765,65_Microcystis_aeruginosa_PCC_7806_188:0.159533):0.021455,2Arthrospira_maxima_CS-328_1362:0.117101):0.02514,(('2Synechococcus_sp._JA-2-3B_apos_a_2-13__162':0.202033,'55_Cyanothece_sp._PCC_8801_164':0.137172):0.052628,'2Cyanothece_sp._PCC_7425_170':0.178014):0.01942):0.031743):0.045225):0.022556,2Microcoleus_chthonoplastes_PCC_7420_132:0.081342):0.047087,(('2Cyanothece_sp._PCC_7424_1482':0.066021,'41_Cyanothece_sp._PCC_7822_132':0.1173):0.084489,78__apos_Nostoc_azollae_apos__0708_252:0.067183):0.031647):0.026009):0.033444,2Nodularia_spumigena_CCY9414_1358:0.089584):0.064168,83__apos_Nostoc_azollae_apos__0708_278:0.028095):0.053686,2Gloeobacter_violaceus_PCC_7421_228:0.189679):0.128391,((((84_Ostreococcus_lucimarinus_CCE9901_280:0.133185,85_Ostreococcus_tauri_282:0.185546):0.211654,95_Gymnochlora_stellata_338:0.408052):0.11037,90_Thalassiosira_pseudonana_CCMP1335_302:0.440406):0.174042,('96_Synechococcus_sp._WH_7805_346':0.429839,'34_Prochlorococcus_marinus_str._MIT_9312_168':0.762512):0.237602):0.495631):0.058727,((((58_Phaeodactylum_tricornutum_CCAP_1055_1_170:0.085698,59_Thalassiosira_pseudonana_CCMP1335_172:0.107447):0.245101,(76_Thalassiosira_pseudonana_CCMP1335_248:0.093895,77_Phaeodactylum_tricornutum_CCAP_1055_1_250:0.18059):0.348122):0.14781,66_Bigelowiella_natans_192:0.328675):0.176822,(62_Ostreococcus_tauri_182:0.070191,69_Ostreococcus_lucimarinus_CCE9901_212:0.073442):0.493062):0.118589):0.107284):0.134887,(LISAS-O80333_POR_MARPA:0.225977,'Physcomitrella_patens_subsp._patens_3686':0.198419):0.040026):0.078583,(((Picea_sitchensis_182:0.01656,63_Pinus_mugo_184:0.051129):0.018075,81_Cupressus_sempervirens_274:0.152828):0.031849,(Picea_sitchensis_622:0.036385,18_Pinus_mugo_58:0.023016):0.01165,82_Pinus_taeda_276:0.02382):0.135071):0.051627):0.048847,((((LISAS-P21218_PORB_ARATH:0.01073,105_Arabidopsis_thaliana_424:0.014048):0.033103,Chorispora_bungeana_2466:0.024393):0.05246,Arabidopsis_thaliana_3182:0.086546):0.056998,LISAS-Q01289_POR_PEA:0.073585):0.020594,(LISAS-Q9SDT1_POR_DAUCA:0.052976,89_Lycopersicon_esculentum_292:0.071636):0.062449,Vitis_vinifera_372:0.076001,((Vitis_vinifera_476:0.056496,(Ricinus_communis_2346:0.094542,2Populus_trichocarpa_52:0.07108):0.037043):0.0313,(((Lycopersicon_esculentum_1718:0.016306,Nicotiana_tabacum_3630:0.024602):0.076466,Amaranthus_tricolor_3714:0.054918):0.036739,Arabidopsis_thaliana_1954:0.144319):0.029283):0.019119,(Nicotiana_tabacum_3078:0.053029,2Lycopersicon_esculentum_1092:0.069106,86_Lycopersicon_esculentum_284:0.017372):0.048913,88_Taraxacum_officinale_288:0.149903,91_Potamogeton_distinctus_322:0.085674):0.020702,((Populus_trichocarpa_2528:0.069543,Populus_trichocarpa_3740:0.042859):0.025157,Ricinus_communis_3410:0.049807):0.026898):0.016983);
+end;
+
+begin figtree;
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="aakar";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=426;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="aakar";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="aakar";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

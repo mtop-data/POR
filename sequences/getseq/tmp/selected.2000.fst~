@@ -1,0 +1,850 @@
+#NEXUS
+[saved by seaview on Sat Apr  4 11:27:11 2009]
+BEGIN DATA;
+  DIMENSIONS NTAX=84 NCHAR=490;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Populus_trichocarpa_1006
+----------------------------------------------------malqaa-s
+lvssafvvpke---gkssa----slkessllgvsls--dhvkadfssstlkwkrefnqrv
+--r-tvraqs-matatpavnrassdgkktlrqgc-civtgassglglaaakalaetgkwh
+vimacrdflkaeraaksagia---kenctimhldlasldsvrqfvdtfk-rsgraldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrllledmk-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglnssamidgge-fdgakay
+kdskvcnmltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqkyitk
+gfvseedagkrlaqvvsdpsltksgvywswnkdsa-----sfenqlsqeasdeekarkvw
+evseklvgla
+[2] Populus_trichocarpa_1012
+----------------------------------------------------malqaa-s
+ilpstvsiyke-------gksnaslketgffgvsvp--nnhlkaefdcslikskefrkre
+lpv-rtiraq-tatttpaiteaapeakktlrkcv-vvitgtssglglatakalsetgqch
+vimacrnflkaeraaktagip---kenytvmhldlaslesvrqfvdtfr-rsgmpldvlv
+cnaavylptakeptytaegfelsvgtnhlghfllarlllddlk-ksdyp-----------
+tkrliivgsitgntntlagnvp-pka-nlgdlrglvgglndlnsspmidgge-fdgakay
+kdskvcnmltmqelhrryheetgitfaslypgciaetglfrnhiplfrtlfppfqkyitk
+gyvseeeagkrlaqvvsdpsltksgvywswnknss-----sfenqlskeasnaekalklw
+eiseklvgla
+[3] Zea_mays_1026
+----------------------------------------------------malqaats
+flpsalsarke----------gsvkdsasflgvrla-adglkldttalglrtvrvsr-sa
+----diraqt-aavsspsvtpaspsgkktlrkgt-avitgassglglatakalaetgkwh
+vimacrdflkasraakaagmd---kdsftvvhldlasldsvrqfvrnvr-qlempidvvv
+cnaavyqptakepsytadgfemsvgvnhlghfllarellsdlq-ssdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglngvgssvmidgge-fdgakay
+kdskvcnmltmqefhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitk
+gyvseeeagkrlaqvvsdpsltksgvywswnknsa-----sfenqlseeasdadkakklw
+eiseklvgla
+[4] Oryza_sativa_Indica_Group_1052
+----------------------------------------------------malqvqaa
+llpsalsvpkk--------gnlsavvkepgflsvsq-----kakkpslvvrav-------
+-----atpaap--vaspgagtskadgkktlrqgv-vvitgassglglaaakalaetgkwh
+vvmacrdflkaataakaagma---agsytvmhldlasldsvrqfvdnfr-rsgmpldalv
+cnaaiyrptarqptftadgyemsvgvnhlghfllarlmlddlk-ksdyp-----------
+srrliilgsitgntntlagnvp-pka-glgdlrglagglrgqngsamidgaesfdgakay
+kdskicnmltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqrfvtk
+gfvseaesgkrlaqvvgdpsltksgvywswnkdsa-----sfenqlsqeasdpekarklw
+dlseklvgla
+[5] Lycopersicon_esculentum_1092
+-----------------------------------------------------malqaaa
+llpstfsipke-------gktsaslkdsslfgisls--dhvksdfgssf----kiksgrk
+sslgairaet--mvaspgvtstpvtgkktlrkgc-vvitgassglglatakalaetgkwh
+vimacrdflkaeraaksagmp---kenytimhldlasldsvrqfvdnfr-rsgnpldvlv
+cnaavyqptakepsftaegfelsvgtnhlghfllsrlliddlk-qsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglargldglnssamidggd-fdgakay
+edskv-------------------------------------------------------
+------------------------------------------------------------
+----------
+[6] Marchantia_paleacea_var._diptera_1094
+mpkrsngslvvrcavsvvrfskenvscdlasenftfsrdsfpvvstvlrvseavyrmaav
+aslgsalsvssaalsqnvsvsnnatkesaflglrmg--evakfggallsvstvaanlksk
+pgvlsvnavt-----apaetmnkpsskktatkst-ciitgassglglatakaladtgewh
+vimacrdflkaeraarsvgip---kdsytvihcdlasfdsvrafvdnfr-rterqldvlv
+cnaavyfptdkepkfsaegfelsvgtnhmghfllarllmedlq-kakds-----------
+lkrmiivgsitgnsntvagnvp-pka-nlghlrglagglngvnsssmidgge-fdgakay
+kdskvcnmftmqefhrryhaetgitfsslypgciaetglfrnhvtlfrtlfppfqkyitk
+gyvseeeagkrmaqvvsdpklsksgvywswnkdsg-----sfenelseeasnpekakrlw
+elserlsglv
+[7] Hordeum_vulgare_1106
+------------------------------------------------------------
+-------------------------kdsaffgvrla--dglkldatslglrtkrvntssv
+----airaqa-aavsaptatpaspagkktvrtgn-aiitgassglglatakalaesgkwh
+vimacrdylktaraaraagmp---kgsytivhldlasldsvrqfvknvr-qldmpidvvv
+cnaavyqptakepsftadgfemsvgvnhlghfllarelledlk-asdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglaaglngvgsaamidgae-fdgakay
+kdskvcnmltmqefhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitk
+gyvseeeagkrlaqvvsepsltksgvywswnknsa-----sfenqlseeasdtekarkvw
+elseklvgl-
+[8] '>gi|968975|gb|AAC49043.1|_NADPH_protochlorophyllide_oxidoreductase_A_&gt_gi|1583455|prf||2120441A_protochlorophyllide_oxidoredu'
+------------------------------------------------------------
+------------------------------------------------------------
+------------atstpsvtkssldrkktlrkgn-vvvtgassglglatakalaetgkwh
+vimacrdflkaeraaqsagmp---kdsytvmhldlasldsvrqfvdnfr-raempldvlv
+cnaavyqptanqptftaegfelsvginhlghfllsrlliddlk-nsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglnssamidggd-fvgakay
+kdskvcnmltmqefhrrfhedtgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvseseagkrlaqvvadpsltksgvywswnktsa-----sfenqlsqeasdvekarrvw
+evseklvgl-
+[9] Arabidopsis_thaliana_1112
+------------------------------------------------------------
+------------------------------------------------------------
+------------atstpsvtkssldrkktlrkgn-vvvtgassglglatakalaetgkwh
+vimacrdflkaeraaqsagmp---kdsytvmhldlasldsvrqfvdnfr-raempldvlv
+cnaavyqptanqptftaegfelsvginhlghfllsrlliddlk-nsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglnssamidggd-fvgakay
+kdskvcnmltmqefhrrfhedtgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvseseagkrlaqvvadpsltksgvywswnktsa-----sfenqlsqeasdvekarrvw
+evseklvgl-
+[10] Ricinus_communis_1146
+------------------------------------------------------------
+------------------------------------------------------------
+------------ataspavnraapegkktlrkgs-vivtgassglglatakalaetgkwh
+iimacrdflkteraaksagis---kenytimhldlasldsvrqfvdnfk-rsgrpldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrllledlq-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdmrglagglnglnssamidggn-fdgakay
+kdskvcnmlimqefhrrfheetgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvsedeagkrlaqvvsdpsltksgvywswnkdsa-----sfenqlsqeasdadkarkvw
+eiseklvgl-
+[11] Nicotiana_tabacum_1154
+------------------------------------------------------------
+------------------------------------------------------------
+------------aattpavnqstseqkktlrkgn-viitgassglglatakaigetgewh
+vimacrdflkaekaaksvgip---kenytvmhldlaslesvrqfvdtfr-rsgrpldalv
+cnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdyp-----------
+qkrliivgsitgntntlagnvp-pka-nlgdlrglsgglnslncspmidgge-fdgakay
+kdskvcnmltmqefhrrfheetgiafaslypgciaetglfrnhiplfralfppfqkyitk
+gyvseaeagkrlaqvvrdpslsksgvywswnntss-----sfenqlskeasdaekarklw
+evseklvgl-
+[12] Cucumis_sativus_1158
+------------------------------------------------------------
+------------------------------------------------------------
+------------atespavnkatpdgkktlrkgs-vvitgassglglatakalaetgkwh
+vimacrdflkaeraaksagit---kenytvmhldlasldsvrqfvdnfr-qsgrpldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrllledln-kssyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglkss-midgge-fdgakay
+kdskvcnmltmqefhkryheetgitfaslypgciattglfrehiplfrilfppfqkfitq
+gyvsedeagkrlaqvvsepsltksgvywswnknsa-----sfenqlsqeasdaekarkvw
+elseklvgl-
+[13] Daucus_carota_1220
+----------------------------------------------------malqaa-s
+flpssfsinke---gkanv----slketslfgvtfs--dslrtdf--sslrtrrgcrqis
+qtg-airsqa-vat-tpsvnratgegkktlrkgs-viitgassglglatakalaetgkwh
+vimacrdflkaeraaksagmp---kenytimhldlasldsvrqfvetfr-rserpldvlv
+cnaavyfptakeptytadgfelsvgtnhlghfllsrlllddln-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglngmnssamidgae-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvseaesgkrlaqvvsepsltksgvywswnkdsa-----sfenqlseeasdvekarkvw
+evseklvgla
+[14] Vitis_vinifera_1222
+----------------------------------------------------mamqaa-a
+lvpsafsipkevssgkgsa----sfkesglfgvsls--dhvkadfsssalrnkrkpsv--
+--g-airaqt-aat-tpaitratpegkktlrkgt-vvitgassglglattkalaetgkwh
+iimacrdflkaeraarsagls---kenytvmhldlasldsvrqfvdnfk-rserpldvlv
+cnaavylptakeptftadgfelsvgtnhlghfllarlllddlk-qsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrgmagglnglnssamidgga-fdgakay
+kdskvcnmltmqefhrryhedtgitfaslypgciattglfrehiplfrllfppfqkfitk
+gyvseeesgkrlaqvvsepsltksgvywswnknsa-----sfenqlsqeasdadkarkvw
+elseklvrla
+[15] 'Oryza_sativa__japonica_cultivar-group__1262'
+----------------------------------------------------malqaatt
+tsflpsalsar----------kegavkdsaflgvrl-gdglkletsalglrtkrvstssv
+----airaqasaavssptvtpaspsgkqtlrkgt-avitgassglglatakalaetgrwh
+vvmgcrdflkasraakaagme---kgsytivhldlasldsvrqfvanvr-rlempvdvvv
+cnaavyqptakqpsftadgfemsvgvnhlghfllarelladlt-ssdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglasgldgvsssamidgge-fdgakay
+kdskvcnmltmqefhrryhgetgvtfaslypgciattglfrehvplfrllfppfqkyitk
+gyvseeeagkrlaqvvsdpsltksgvywswnnnsa-----sfenqlseeasdpekakkvw
+elseklvgla
+[16] Zea_mays_1294
+----------------------------------------------------malqaall
+pstlssvpkkc--------siavaakdtaflsvsqk-----kvqaaslsvrtr-------
+-----vattap--vatpgsstaakdgkktvrqgv-vvitgassglglaaakalaetgkwh
+vvmacrdflkaakaakgagma---dgsytimhldlasldsvrqfvdsfr-ragmpldslv
+cnaaiyrptartptftadgyemsvgvnhlghfllarlllddmq-ksdyp-----------
+srrliilgsitgntntlagnip-pka-glgdlrglaaglrgqngsamidgsesfdgakay
+kdskicnmltmqelhrryheetgitfaslypgciattglfrehiplfrllfppfqkfvtk
+gfvseaesgkrlahvvsdpsltksgvywswnkdsa-----sfenqlsqeasdpekakklw
+eiseklvgla
+[17] Triticum_aestivum_1296
+-----------------------------------------------------malqllp
+stlsvpkkgss--------mgaaavkdtaaflgvss-----kakkaslavrtq-------
+-----vatapssvttspgsatakpsgkktlrqgv-vvitgassglglaaakalaetgkwh
+vvmacrdflkaskaakaagma---dgsytvmhldlasldsvrqfvdafr-raempldvlv
+cnaaiyrptartptftadghemsvgvnhlghfllarllmedlq-ksdyp-----------
+srrmvivgsitgnsntlagnvp-pka-slgdlrglagglsgasgsamidgdesfdgakay
+kdskvcnmltmqefhrryheetgitfsslypgciattglfrehiplfrtlfppfqkfvtk
+gfvseaesgkrlaqvvaepsltksgvywswnkdsa-----sfenqlsqeasdpekarkvw
+elseklvgla
+[18] Physcomitrella_patens_subsp._patens_1304
+------------------------------------------------------------
+avaalsspptsftservtsgitasvqpsaflgtkis-----vckgasvlsravsasisrq
+plvapiraqg---vaapadtkaptttkktdtkst-viitgassglglatakvladsgewh
+vimacrdflkaeraaravgmp---kdsytvihcdlsslnsvkqfvdnvr-qsgrpldvlv
+cnaavylptakeprytadgfelsvgtnhlghfllanmlmediqhkendt-----------
+nrrviivgsitgntntiagnvp-pka-nlgdlrglaggldgvrssvmivgge-fdgakay
+kdskvcnmltmqemhrrfhektgvtfaslypgciattglfrehyqlfrtlfppfqkyitk
+gyvseeeagkrlaqvvsdptlnksgvywswnnqsn-----sfenelsqeasdaekakklw
+eiseklvnls
+[19] Chlamydomonas_reinhardtii_1320
+------------------------------------------------------------
+---------------svsaraqvsskaqaapavavsgrtssrvmpapalaarssvartpl
+vvcaatatapspsladkfkpnaiarvpatqqkqt-aiitgassglglnaakalaatgewh
+vvmacrdflkaeqaakkvgmp---agsysilhldlsslesvrqfvqnfk-asgrrldalv
+cnaavylptakeprftadgfelsvgtnhlghflltnlllddlk-napnk-----------
+qprciivgsitgntntlagnvp-pka-nlgdlsglaagvpaan--pmmdgqe-fngakay
+kdskvacmmtvrqmhqrfhdatgitfaslypgciaetglfrehvplfktlfppfqkyitk
+gyvseeeagrrlaavisdpklnksgaywswssttg-----sfdnqvseevaddskasklw
+disaklvgls
+[20] Leptolyngbya_boryana_1322
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maqdqkpt-vvitgassgvglyaakalvkrg-wh
+vvmacrnlekadsaakslgms---pdsytlmhidlgsldsvrkfvtqfr-esgksldalv
+cnaavhmpllkepmrspegyelsvatnhfghfllcnllledlk-hsthn-----------
+dprliilgtvtanskelggkipipapadlgdlsgleagfk--apiamidgkp-fkagkay
+kdsklcnmitsrelhrryhdstgivfntlypgcvadtplfrnslpvfqkvfpwfqknitg
+gyvsqelagertaqvvadpefkqsgvhwswgnrqkegre-sfvqelsekvtddakakrmw
+elseklvgla
+[21] Microcoleus_chthonoplastes_PCC_7420_1330
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqhqkst-vvitgassgvglyaakalaqrgnwh
+vvmacrnlekaqnaaqevgmp---edsytimhidlgslesvrqfvakfr-esgksldalv
+cnaaiympllkeplrspegyelsvatnhlghfllshlmledlk-hssae-----------
+sprlvilgtvthnpdelggkip-prp-dlgqlkgfeagfk--ephsmidgkk-fepvkay
+kdskvcnvltmrelhrryhestgivfsslypgcvadtplfrnhyplfqkifplfqkhitg
+gyvsqelsgervaavvadpeysqsgvywswgnrqkkdgk-sfvqkvspqarddqkgermw
+elsaklvgva
+[22] Trichodesmium_erythraeum_IMS101_1332
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mkenhkst-vvitgassgvglhaakalaktgewy
+vvmacrdiskaekvaqevgmt---qdsytvmhldlaslevvkrfvktfr-esgrslealv
+cnaavylpllkepmrsidgyeisvatnhlghfllcnlmledlk-kspak-----------
+dkrlvilgtvtanpkelggkipipappdlgnlqgfeqgfk--tpisminakk-fksgkay
+kdsklcnvltmrelhrryykstgivfsslypgcvadtplfrnhyplfqklfplfqknitg
+gyvsqdlagervaavvkdpeykesgiywswgnrqkkdrk-sfvqevsdeasdddkaiklw
+elssklvgls
+[23] Anabaena_variabilis_ATCC_29413_1336
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maqdrkst-vivtgassgvglyaakalakrg-wh
+vvmacrnlekaeqaaqevgip---kdsytiihidlgsldsvrqfvndfr-atgksldall
+cnaaiymplikeplrspegyeltmttnhlghfllcklmledlq-kssaa-----------
+dkrlvilgtvthnpdelggkip-prp-dlgnlegfaqgfk--ppismidgkk-fepvkay
+kdskvcnvltmrelhrryhestgitftslypgcvaetplfrnhyplfqkifplfqkyitg
+gyvsqelagervadviaapeykqsgaywswgnrqkkdgk-sfvqkvspqarddekaerlw
+dlseklvgl-
+[24] Nostoc_sp._PCC_7120_1338
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maqdrkst-vivtgassgvglyaakalakrg-wh
+vvmacrnlekaeqaaqevgip---kdsysiihidlgsldsvrqfvndfr-atgksldall
+cnaaiymplikeplrspegyeltmttnhlghfllcklmledlq-kssav-----------
+dkrlvilgtvthnpdelggkip-prp-dlgnlegfaqgfk--ppismidgkk-fepvkay
+kdskvcnvltmrelhrryhestgitftslypgcvaetplfrnhyplfqkifplfqkyitg
+gyvsqelagervadviaapeykqsgaywswgnrqkkdgk-sfvqkvspqarddekaerlw
+dlseklvgl-
+[25] Nostoc_punctiforme_PCC_73102_1344
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mvqdrkst-vvitgassgvglyaakalaerg-wy
+vvmacrdvakaqlaaqsvgip--hqgsytimhidlgsldsvrqfvknfr-asghsldalv
+cnaaiymplikeplrspegyeltvttnhlghfllcnlmledlk-ksss------------
+eprlvilgtvthnpdelggkip-prp-dlgdlqgfaegfk--epismidgkk-fepvkay
+kdskvcnvltmrelhqryhestgivfnslypgcvaetplfrnhyplfqkifplfqkyitk
+gyvsqelagervaavvadpeynqsgvywswgnrqkedgk-sfvqkvspqardddkgdrlw
+qlsaklvgla
+[26] Cyanothece_sp._CCY0110_1346
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mvenhkst-viitgassgvglyaakaladrg-wy
+vvmacrnqpkahqaaqsvgip---ldsytvmsidlgsldsvrqfvkdfr-atgksldalv
+cnaaiympllkeplrspegyelsmttnhlghfllcnlmlqdlk-rspap-----------
+ekrvvilgtvthnpnelggkip-prp-dlgnlegfaegfk--epvsmidgkk-fepvkay
+kdskvcnvltmrelhrryhentgvvftslypgcvadtplfrnhyplfqkifpwfqknitg
+gyvsqelagervadvvtkpeygqsgsywswgnrqkkdrkaafvqkvspqaqdeakaermw
+elseklvgl-
+[27] Nodularia_spumigena_CCY9414_1358
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maqdqkst-vvitgassgvglqaaralsqkg-wy
+vvmacrnlskaenaakslgme---pdsytvmhidlgslesvrqfvkdfr-asgksldalv
+cnaaiymplikeplrspegyelsvatnhlghfllcnllledlk-nspss-----------
+eprlvilgtvthnpkelggkip-prp-dlgdlqgfaagfk--epiamidgkk-fepvkay
+kdskvcnvltmrelhrryheshgitfsslypgcvattalfrnhyplfqkifplfqryitg
+gfvteeesgdrvaevvsdpqynqsgaywswgnrqkkngk-sflqevsneasdddkaermw
+elsaklvgla
+[28] 'Arthrospira_maxima_CS-328_1362'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mvqdqkst-vivtgassgvglyaakaladrg-ah
+vimacrnlekaeaaaqelgip---edsrtilhidlgslesvrrfinsfr-atgrtleglv
+cnaaiymplikeplrspegyeltmttnhlghfllcnvmmedmk-rspae-----------
+dkrmvilgtvthnpdelggkip-prp-dlgdlegfakgfr--epvsmidgkk-fepvkay
+kdskvcnvltmrelhrryheetgitftslypgcvadtplfrnhyplfqkifpifqkyitk
+gyvsqelagervaavvldeeyrqsgaywswgnrqkkgrq-sfvqrvspqardeeraekmw
+nlslklvela
+[29] Synechococcus_sp._PCC_7335_1364
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqpqssn-viitgassgvglyaakslaarg-wh
+vimacrnlpkaervakevgmp---egsytilkldlssldsvrqfvedfr-atgrsldalv
+vnaaiykpslkspersvdgyeisvatnhlghfllcnllledmk-kaahp-----------
+eprlvtlgtvtanpkelggkipipappdlgdlkgmelgfk--spiamidgkk-fkpgkay
+kdsklcnmltmlemhrryhdetgivfnalypgcvaesdlfrdapklfqtifpffqknitg
+gyvseeesgdrvakvvdeegfnksgvywswgnrqdknre-afcqevsneaadankagklw
+dlseklvgla
+[30] Cyanothece_sp._PCC_7822_1372
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqqrkst-aiitgassgvglqaakaladlg-wy
+vvmacrdiektkrvaqevgmp---adsyniiyidlaslqsvrefvkyfr-alsrpldalv
+cnaaiympllkeplwspdgyeltmatnhlghfllcnlmlddlk-qsavk-----------
+paklvilgtvthnpnelggkip-prp-dlgnlqgfaagfk--apysmidgka-fepvkay
+kdskvcniltmrelhrryhastgiifnslypgcvattalfrnhypkfqkyfplfqkyitg
+gfvseelsgqrvaqvvaepdfaqsgvywswgnrqkkngq-afvqkvstqagddakavrlw
+elseqlvgl-
+[31] Dinoroseobacter_shibae_DFL_12_1380
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mtldpmpr-aivtgassgvglhatkslidrg-wh
+vtmacrdlakaeaaarsldld---pgryalahldlgslasvrafhania-rdhdsldalv
+cnaavykprltqpgrspdgfeisvatnyfghfllanlmlplle-gapsp-----------
+--rlitlgtvtanseefggkvpipapadlgdfaglkagfr--apvamidgkp-fkagkay
+kdsklctmmmsrelhtrhhartgivfatlypgcvadtplfrdtpkafqtifpwfqknvtk
+gyvsqalsgervamvvadpefaqsgvhwswgnrqregrs-afaqglstkatdaarsaelw
+eltaaltgl-
+[32] Cyanobium_sp._PCC_7001_1384
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maadptpgtvlitgttsgvglhatkalvdrg-wt
+vvtanrdpvraaaaaeslgip---saqlhhlridlgdldsvragvetlvsslgrpldalv
+inaavykprlkqperspqgyelsmatnhlghflliqlllpdle-hsthp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfaagfk--apiamasgka-fkpgkay
+kdsklcnmittqelhrrlhgstgivftslypgcvadtplfrntprlfqkifpwfqknvtg
+gyvsqalagervaqvvadpefavsgvhwswgnrqkqggr-qfsqelsdkasnpdtarkvw
+eyslklvel-
+[33] 'uncultured_marine_type-A_Synechococcus_GOM_4P21_1386'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatkalverg-wt
+vitanrspqraagaademeip---kdrlqhvlmdlgdldsvrsave----klpggvdalv
+cnaavykpklkqperspqgyeismatnhfghfllvqllldrir-asshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeagfl--epismasgkp-fkpgkay
+kdsklcnmittqelhrrlhgetgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqalagervaqvvadpdfaesgvhwswgnrqskdgq-qfsqelsdkatdpdtarrvw
+dlslrlvgl-
+[34] Microcystis_aeruginosa_PCC_7806_1390
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mvqdqkpt-viitgttsgvglyaakslaqrg-wf
+vvmacrdipkmeqaakelnip---rdnyciefidlgslnsvrrfvknfr-algrsltalv
+cnaaiylpllkeplrspdgyelsmatnhlghfllsnllledlk-nspsp-----------
+drrlvilgtvthnpdelggkip-prp-dlgdlegfakgfk--epitmadgkk-fesvkay
+kdskvcnvltmrelhkryhestgitftslypgcvadtplfrnhypffqqffpwfqknitg
+gyvsqelagervaivvadpqyrqsgaywswgnrqkkegk-sfvqrvspqardeergekmw
+eysaklvgla
+[35] Synechococcus_sp._RS9917_1392
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------m------------------glnaakalvdrg-wr
+vvtanrdpvraaqaaeslglp---saqlhhlridlgdldsvragvealigslpgeldalv
+cnaavykprlkeperspqgyeismatnhfghflliqllmptlq-asshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeqgfq--apismasgkp-fkpgkay
+kdsklcnmitsqelhrrlheptgivfsslypgcvadtplfrdtpkafqtifpwfqknitg
+gyvtqalagervaqvvadpdfgtsgvhwswgnrqkkdgr-qfsqelsdkatdprtaqrvw
+dlsmqlvgva
+[36] 'uncultured_marine_type-A_Synechococcus_5B2_1394'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatkalvarg-wt
+vitanrspqraagaadaleip---kerlqhvlmdlsdldsvrrava----alpsgvdalv
+cnaavykpklklperspqgfeismatnhfghflliqllldriq-assht-----------
+skrvvilgtvtanskelggkipipapadlgdlsgfesgfk--qpvsmasgka-fkpgkay
+kdsklcnmittqelhrrlhaetgitfnslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqalagervaqvvadadfaesgvhwswgnrqkqngq-qfsqelsdkatdpdtarkvw
+dlsmqlvgl-
+[37] Synechococcus_sp._RCC307_1396
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------pl-aivtgassgvglwttkalidqg-wt
+vvmacrdgakaqqalvelglg--rpaeaiilpldlsdfesvkafvelfr-glnrpltalv
+inaavykpllkepewsaqgyelsmatnhlghfllarlllddlk-aspaa-----------
+dkrlitlgtvtanskelggkipipapadlgdlsgfaqgfk--apiamasgkk-fkpgkay
+kdsklcnmitslelhrrfhgatgisfsslypgcvadtplfrnslpafqkifpwfqknitg
+gyvsqalagervaqvvadpafrssgahwswgnrqkkdgk-qfeqelsdkasdpatalrvw
+dlssalvgl-
+[38] Synechococcus_sp._CC9605_1398
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatcalvkrg-wt
+vitanrspqraaaaadeldlp---kdrlkhvlmdlgdldsvrravd----alperldavv
+cnaavykpklkqperspqgyeismatnhfghfllvqlllgrlk-asthp-----------
+skrvvilgtvtanskelggkipipapadlgdlsgfeagfk--dpvamasgkp-fkpgkay
+kdsklcnmittqelhrrlhgdtgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqslagervadvvahpdfaesgvhwswgnrqkkdge-qfsqelsdkatdpetarrvw
+elsmklvg--
+[39] Synechococcus_sp._RS9916_1400
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlvtgttsgvglntvkalasqg-wt
+vitgnrspqraagaadaldip---kerlkhiqmdlgdldcvrrava----sldqpidalv
+cnaavykprlkqaerspqgyeismatnhlghfllihllmpalq-asthp-----------
+skrvvilgtvtanskelggkipipapadlgdlsgfeagfq--epitmannka-fkpgkay
+kdsklcnmittqelhrrlhgetgivfsslypgcvadtplfrntpkafqtifpwfqknitg
+gyvtqalagervaqvvsdpdfavsgvhwswgnrqkkdgq-qfsqelsdkatdpqtaervw
+dlsmklvglg
+[40] 'uncultured_marine_type-A_Synechococcus_4O4_1404'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------alitgttsgvglnatcalvkrg-wt
+vitanrspqraaaaademdlp---kerlqhvlmdlgdldsvrravd----alpdrldavv
+cnaavykpklkqperspqgyeismatnhfghfllvqlllgrlq-nsshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeagfk--epiamasgkp-fkpgkay
+kdsklcnmittqelhrrlhgetgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqalagervadvvanpdfaesgvhwswgnrqkkdgq-qfsqelsdkatdpdtarrvw
+dlsmllvgl-
+[41] 'uncultured_marine_type-A_Synechococcus_GOM_3O12_1408'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatsalvkrg-wt
+vitanrspqraaaaaddvdlp---kdrlqhvlmdlgdldsvrravd----alpeqldavv
+cnaavykpklkqperspqgyeismatnhfghfllvqllldrlk-asshp-----------
+skrvvilgtvtanskelggkipipapadlgdlsgfeagfq--epvsmasgkp-fkpgkay
+kdsklcnmittqelhrrlhgetgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqslagervadvvanpdfaesgvhwswgnrqkkdgq-qfsqelsdkatdpvtaqrvw
+dlsmqlvgl-
+[42] Synechococcus_sp._WH_7805_1410
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatralvsrg-wt
+vitanrspqraaaaadeldlp---kerlqhvlmdlgdlesvrqavd----alpetldavv
+cnaavykpklkqperspqgyeismatnhfghfllvqlllgrlq-nsshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeagfk--dpiamasgkp-fkpgkay
+kdsklcnmittqelhrrlhadmgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqalagervadvvanpdfaesgvhwswgnrqkkdgq-qfsqelsdkatdpdtarrvw
+elsmqlvgl-
+[43] 'uncultured_marine_type-A_Synechococcus_GOM_5D20_1412'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatcalvkrg-wt
+vitanrspqraataaeemdip---kerlkhvlmdlgdldsvrravd----alpdrldavv
+cnaavykpklkqpdrspqgyeismatnhfghfllvqlllgrlq-nsshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeagfq--epvsmasgks-fkpgkay
+kdsklcnmittqelhrrlhgntgitftslypgcvadtplfrntpkafqtifpwfqkkitg
+gyvsqslagervadvisnsdfaesgvhwswgnrqkkdgq-qfsqelsdkvtdpvtarrvw
+dlsmqlvgl-
+[44] Synechococcus_sp._WH_8102_1416
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatcalvkrg-wt
+vitanrspqraaaaaddmdlp---kerlqhvlmdlgdldsvrravd----alpdrldavv
+cnaavykpklkqperspqgyeismatnhlghfllvqlllgrlq-nsshp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfeagfk--ypvamasgkp-fkpgkay
+kdsklcnmistqelhrrlhgesgitftslypgcvadtplfrntpkafqtifpwfqknitg
+gyvsqalagervadvvahpdfaesgvhwswgnrqkkdgq-qfsqelsdkatdpdtarrvw
+dlsmqlvgl-
+[45] Synechococcus_sp._BL107_1422
+------------------------------------------------------------
+------------------------------------------------------------
+-----------------------------------vlitgttsgvglntakslasrg-wq
+vitanrspqraaaaaddlgip---kerlqhvlmdlgdlesvrravq----slpatldavv
+cnaavykpklkqperspqgyelsmatnhlghfllihllldrlk-gskhp-----------
+srrvvilgtvtanskelggkipipapadlgdlsgfyqgfl--dpiamangqp-fkpgkay
+kdsklcnmittqelhqrlhqdtgitfsslypgcvadsplfrntprafqtifpwfqknitg
+gyvtqalagdrvaqvvadpdfaesgvhwswgnrqkkdgq-qfsqelsdkatdpetassvw
+dlskqlvgl-
+[46] Synechococcus_sp._CC9311_1424
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vlitgttsgvglnatqalvrqg-wt
+vitanrnpqraagaadqldip---rgrlhhilmdlgdlesvrhave----nlsigidalv
+cnaavyepklkqpkrspqgyelsmatnhlghflliqllldrlk-asshp-----------
+skrivilgtvtanskelggkipipapadlgdlsgfeagfq--dpvsmasgql-fkpgkay
+kdsklcnmittqelhrriyadtgisctslypgcvadtplfrntpkafqvifpwfqkkitg
+gyvsqslagervamvvanpafnqsgvhwswgnrqkkdgq-qfsqelsdkatnpdvarrvw
+elsmklvgl-
+[47] Prochlorococcus_marinus_str._MIT_9313_1426
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------sqaspgt-vlitgttsgvglyackalvyrg-wq
+vitanrhplravaaaervgip---aaqlthlrmdlsdlqsvrdgvetllgsleqpldalv
+cnaavyqprlrkpkrsaqgyelsmatnhfghflliqlllenlg-kak--vfqsargsyls
+aarvvilgtvtanykelggkipipapadlgnlsgfeqgfh--apismasgks-fkpgkay
+kdsklcnmittqelhrrlheqsgilftslypgcvadtplfrytpkifrflfpifqrlitg
+gyvtqakagqrvaqvvtnpefgvsgvhwswgnrqkknre-sfrqelseratdpitakrvw
+elsmklvgl-
+[48] Gloeobacter_violaceus_PCC_7421_1432
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------t-viitgassgvglhaadslaqsgrwh
+vvmacrdkakaqnaaaslgmr---pqsytivhldlaslasvrrfvqdfr-algqpldalv
+cnaavytptareprytadgfelsvgtnhlghfllcnllledlq-nspaa-----------
+eprlvilgtvthnpkelggsip-prp-dlgdlrgleqgfk--aphtmidgka-ynpvkay
+kdskvcnlltmrelhrrfhtshkitfsalypgcvatsglfresprlfqilfpvfqkyvtg
+gfvseaeaggrvaalvddpaysrsgvywswgnrqkkdgk-sfiqdvsteasdedkarrlw
+dlsaglvgla
+[49] Synechocystis_sp._PCC_6803_1436
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqpmkpt-viitgassgvglygakalidkg-wh
+vimacrnldktqkvadelgfp---kdsytiikldlgyldsvrrfvaqfr-elgrplkalv
+cnaavyfplldeplwsaddyelsvatnhlghfllcnllledlk-acpda-----------
+dkrliilgtvtanskelggkipipappdlgnfegfeagfk--kpiaminnkk-fksgkay
+kdsklcnmlttrelhrrfhqetgivfnslypgcvadtplfrnhyslfrtifpwfqknvtk
+gyvsqelagervamvvaddkfkdsgvhwswgnrqqagre-afvqelseqgsdaqkaqrmw
+dlseklvglv
+[50] 'Thermosynechococcus_elongatus_BP-1_1440'
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------dqprpt-viitgassgvglyatkalanrg-wh
+vimacrnlekaeqaaknlqip---peaytilhldlsslasvrgfvesfr-alnrplralv
+cnaavyypllkepiysvdgyeitvatnhlghfllinllledlk-nspes-----------
+dkrlvilgtvtanrkelggkipipappdlgnlegfekgfk--kpiamingkp-fksgkay
+kdsklcnmltarelhrrfhestgivfnslypgcvadtplfrhhfplfqklfplfqkkitg
+gyvsqelagervamvvadpefrqsgvhwswgnrqkegrk-afvqelsaeasdeqkarrlw
+elseklvgl-
+[51] Leptolyngbya_boryana_1442
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------maqdqkpt-vvitgassgvglyaakalvkrg-wh
+vvmacrnlekadsaakslgms---pdsytlmhidlgsldsvrkfvtqfr-esgksldalv
+cnaavhmpllkepmrspegyelsvatnhfghfllcnllledlk-hsthn-----------
+dprliilgtvtanskelggkipipapadlgdlsgleagfk--apiamidgkp-fkagkay
+kdsklcnmitsrelhrryhdstgivfntlypgcvadtplfrnslpvfqkvfpwfqknitg
+gyvsqelagertaqvvadpefkqsgvhwswgnrqkegre-sfvqelsekvtddakakrmw
+elseklvgl-
+[52] Synechococcus_elongatus_PCC_7942_1444
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------msetqqpt-viitgassgvglygakalaarg-wh
+vvmacrnlqkaaeaakslgin---penyslmeidlgslasvrrfvdqfr-atgrsldalv
+cnaavylprlkepqrspegyeisvatnhfghfllcnlllddlk-rspap-----------
+ekrlvilgtvtanskelggkipipapadlgnlegleagfk--apiamidgkk-fkpgkay
+kdsklcnmittrelhrrfhdstgivfsslypgcvadtplfrntpklfqkifpwfqknitg
+gyvtqelagervaqvvadpefktsgvhwswgnrqqkdrq-sfvqelsdkasddrtaqrlw
+dlsaklvgl-
+[53] Lyngbya_sp._PCC_8106_1448
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqhqkst-vvitgassgvglqaakalakkg-wy
+vvmacrnlektekaaqtvgip---adtytiipldlaslesvhqfvktfr-esgksldalv
+cnaavylplekepqrsadgyelsvatnhlghfllcnlmledlk-hsats-----------
+eprliilgtvtanpkelggkipipappdlgnmqgleagfq--apismidgkk-fksgkay
+kdsklcnvltmrelhrryhestgivfsslypgcvattalfrnhyplfqkifpwfqknitg
+gyvseelagervamvvaepeyntsgvywswgnrqkegrk-sfmqevsnealddnkaeklw
+klsaklvgm-
+[54] Fremyella_diplosiphon_Fd33_1454
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------meqnrkst-vvitgassgvglytakamankg-wh
+vvmacrnlakaeeaaqsvgip---rdshtilhldlgsldsvrqfvsnfr-atgktldall
+cnaaiymplikeplwspegyeltmttnhlghfllcnlmledmk-nspyr-----------
+drrlvilgtvthnpdelggkip-prp-dlgnlegfsagfk--apitmidgkk-fepvkay
+kdskvcnvltmrelhrryhestgitfsslypgcvaetplfrnhyplfqkifplfqkyitg
+gyvsqdlsgervaavladpeykqsgaywswgnrqkkdgk-sfvqrvspqarddekaerlw
+dlseklvgl-
+[55] Synechococcus_sp._WH_5701_1472
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------t--------vmitgassgvglyaakalaqrg-wh
+vvmacrdlakakaaasslaip---esslthlqvdlgdlesvrrlvnafh-atgrsldalv
+cnaavykprlkqperspqgyeismatnhlghflliqallddmk-ksshp-----------
+srrlvilgtvtanskelggkipipapadlgdlsgfeagfk--apismanska-fkpgkay
+kdsklcnmittqelhrrlhdstgiifsslypgcvadtplfrntprafqtifpwfqknitg
+gyvsqelagervaqvvadpafavsgahwswgnrqkangq-qfiqelsdkasdpetaaktw
+dlsmklvgl-
+[56] Crocosphaera_watsonii_WH_8501_1474
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mvenrqst-vvitgassgvglyaakaladrg-wy
+vvmacrnqpkahqaaqslgia---ldaytvmhidlgnldsvrqfaqdfr-atgktldalv
+cnaaiympllkeplrspegyelsmttnhlghfllcnlmledls-hssap-----------
+ekrmvilgtvthnpdelggkip-prp-dlgnlegfadgfk--epismvdgkn-fepvkay
+kdskvcnvltmreldrryhestgivftslypgcvadtplfrnhyplfqkifpwfqknvtg
+gyvsqelagervadvvtkpeygesgsywswgnrqkkdrqaafvqnvspqaqdeakaekmw
+nlseklvgl-
+[57] 'Synechococcus_sp._JA-2-3B&apos_a_2-13__1480'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mqgqeqpt-vvitgassgvglysalalakrg-wh
+vvmacrdldkayrvaqqvgip---qgsytlmqidlaslasvrrfveqfr-nwgrsldalv
+cnaaiympllkqplrspegyeltmatnhlghfllchlmledlk-rstyp-----------
+drrlvilgtvthnpkelggkip-pqp-hlgdlrgfaqgfk--dpismadggk-fepvkay
+kdskvcniltmrelhrlfhestgitflslypgcvattalfrhhyplfqklfpwfqknitg
+gfvsqelagervaqvvadpefrrsgfywswgnrqrknak-pfnqevsdeaaddakakllw
+dlseklvgv-
+[58] Cyanothece_sp._PCC_7424_1482
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mqqqpkst-viitgassgvglqaakalalsg-wy
+vimacrdlektrrvakevgmp---sgsymiihidlaslesvrqfvrdfr-aigrsldalv
+cnaaiympllkeplrspegyeltvatnhlghfllcnlmledlk-kssas-----------
+ppklvilgtvthnpdelggkip-prp-dlgdlkgfaegfk--epytmidgkk-fepvkay
+kdskvcniltmrelhrryhestgivfnslypgcvattalfrnhyplfqklfplfqkhitg
+gfvseelsgqrvaqvvtdpafaqsgvywswgnrqkkngn-afvqkvssqarddenaerlw
+elseqlvgl-
+[59] Cyanothece_sp._PCC_8802_1486
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mtqdqk-t-viitgassgvglyaakaliqkwgyh
+vvmacrnldktyrvaqelgfp---sdsytvlpidlgslgsvryfvqafr-etkkpldall
+cnaaiympllkeplrspegyeltmttnhlghfllcnllledlq-rsssp-----------
+eprvvilgtvthnpdelggkip-prp-dlgnlegfeagfv--qphsmidgkk-fepvkay
+kdskvcnvltmrelhrryhdstgitfsslypgcvattalfrnhyplfqklfplfqkhitg
+gfvseelagervadvvaapeynqsgsywswgnrqkkdre-sfvqqvspqarddekaekmw
+dlsaqlvgl-
+[60] Cyanothece_sp._PCC_7425_1492
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------mgqdqkpt-viitgassgvglyaakalankg-fh
+iimacrdlhkagqaaqtvgip---qgsyslmhidlgdldsvrrfarevs-asgrplkalv
+cnaaiympllkeplrspegyeltmttnhlghfllcnllledlk-qsrve-----------
+dkrvvilgtvthnpdelggkvy-prp-dlgkfegfaagfk--epvsmvdgkk-fepvkay
+kdskvcnvltmkeldrryhdttnitfsslypgcvadtplfrnhyptfqklfplfqkyitg
+gyvsqelagervaqvvadpefresgaywswgnrqkqgrk-afmqkvsrqarnndkaeqmw
+vlseklvgl-
+[61] Paulinella_chromatophora_1496
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------t-vlvtgtssgvglytakaliakg-wh
+visvsrniekaklalqnfggn---nanlthltidlgdlnsvkncvhefr-rlgktldalv
+cnaavylprlkepiispqgyeismatnhlghflliqlllsdlq-lsrhp-----------
+srrivilgtvtanskelggkipipapadlgdlsgfeegfq--mpismanskk-fkpgkay
+kdsklcnmitarelhrrlhnstgiifsslypgcvadtplfrntpsafqtifpwfqknitg
+gyvsqglagervaavvtdrnfaqsgvhwswgnrqkrngk-efvqelsnqasdegtskklw
+dlsmnlvdi-
+[62] Chorispora_bungeana_1506
+------------------------------------------------------lqaa-s
+lvssafsvrkd---gklnas-sssfkdsslfgvsit--dliksehgsssirfkrehnlrn
+--v-airaqt-aatsspsvtkssgegkktlrkgn-vvvtgassglglatakalaetgkwh
+vimacrdflkaeraaksagmp---kgsytvmhldlasldsvrqfvdnfr-rsempldvlv
+cnaavyfptakeptysaegfelsvgtnhlghfllsrlllddlk-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglnssamidggd-fdgakay
+kaskvcnmltmqefhrrcheetgvtfaslypgciastglfrepiplfrflfppfqkyitk
+gyvsetesgkrlaqvvsdpsltksgvywswnkasa-----sfenqlsqeasdvekarkvw
+eiseklvgla
+[63] Populus_trichocarpa_1512
+------------------------------------------------------lqaa-s
+lvssafvfpke-------gksnayfkdsslfgvsls--ehvkadfsscalkckrefnqgv
+--g-avraqt-mvaatpaldrasseskktlgqgt-civtgassglglatakalaetgkwh
+iimacrnflkaeraaksagia---kenytimhldlasldsvrqfvdtfr-rsgrpldvlv
+cnaavylptakepaftaegfelsvgtnhlghfllsrllledmk-isdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglsgglnglnrsamidggv-fdgakay
+kdskvcnmltmqefhrrlheetgiafaslypgciattglfrehiplfrllfppfqkyitk
+gfvseheagkrlaqvvsdpsltksgaywswnkhsa-----sfqnqlsqeasdaekarkvw
+eiseklvgla
+[64] Vitis_vinifera_1534
+------------------------------------------------------lqaa-s
+llpsavsihke---gksna----slketgffevsvs--dhlkaels--laslqelkrrkl
+pvg-viraqt-att--paisqaspegkktlrkgn-viitgassglglatakalaetekwh
+iimacrnflkadraaksagia---kenytvmhldlaslesvrqfadnfr-rsgrpldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrlllddlk-qtdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglngingspmidgge-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitk
+gyvseeeagkrlaqvvtdpsltksgvywswnknsa-----sfqnqlsqeasdaekarkvw
+eiseklvgla
+[65] Picea_sitchensis_1564
+----------------------------------------------------lhqthi-g
+saafalqkegg----------hsasansaflgvsva--ehgkrefgfpvlrakkvtsrnt
+nia-rlraqt-vaa--pvetkeapaskktdrkgn-viitgassglglatakalgesgewh
+iimacrdfvkaermartvgip---kenytvmhldlaslesvrqfadnfk-hsgrpldvlv
+cnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfk-----------
+skrviivgsitgntntlagnip-pka-nlgdlrglsgrlngvnsspmidgge-fdgakay
+kdskvcnmltmqefhrqyheetgitfaslypgciattglfrehippfrllfppfqkyitk
+gfvseeeagkrlaqvvsdtsltksgvywswnndsa-----sfenqlseeasdpekarkvw
+aiseklvgla
+[66] Acaryochloris_marina_MBIC11017_1612
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------qkqt-vvvtgassgvglyaakalaltgkwh
+vimacrnflkaetaaqsvgip---rdsytvihldlacfesihrfvkdfr-emgrsldalv
+cnaaiympllkkplhtaegyelnvgtnhlghfllcnlmledlm-rsgyd-----------
+qrrliilgtvtanpkelggkipipappdlgdmrgleagfk--apvsmingkk-fkpgkay
+kdsklcnmltmrelhrrfhestgitfsalypgcvattglfrnhfalfrflfpkfqrfitg
+gfvteelagtrvaqvvsdplfgksgvywswgnrqkegrp-sfeqemsneslddtkaqrlw
+elseglvgls
+[67] Arabidopsis_thaliana_1616
+------------------------------------------------------lqaa-s
+lvssafsvrkd---aklnas-sssfkdsslfgasit--dqiksehrssslrfkreqslrn
+--l-airaqt-aatssptvtksv-dgkktlrkgn-vvvtgassglglatakalaqtgkwn
+vimacrdflkaeraaksvgmp---kdsytvmhldlasldsvrqfvdnfr-rtetpldvlv
+cnaavyfptakeptysaegfelsvatnhlghfllarlllddlk-ksdyp-----------
+skrliivgsitantntlagnvp-pka-nlgdlrglagglnglnssamidggd-fdgakay
+kdskvcnmltmqefhrrfheetgvtfaslypgciastglfrehiplfralfppfqkyitk
+gyvsetesgkrlaqvvsdpsltksgvywswnnasa-----sfenqlseeasdvekarkvw
+eiseklvgla
+[68] Arabidopsis_thaliana_1622
+------------------------------------------------------lqaa-s
+lvssafsvrkd---gklnasasssfkesslfgvsls--eqskadfvssslrckreqslrn
+nka-iiraqa-iatstpsvtkssldrkktlrkgn-vvvtgassglglatakalaetgkwh
+vimacrdflkaeraaqsagmp---kdsytvmhldlasldsvrqfvdnfr-raempldvlv
+cnaavyqptanqptftaegfelsvginhlghfllsrlliddlk-nsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglnssamidggd-fvgakay
+kdskvcnmltmqefhrrfhedtgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvseseagkrlaqvvadpsltksgvywswnktsa-----sfenqlsqeasdvekarrvw
+evseklvgla
+[69] Cucumis_sativus_1628
+------------------------------------------------------lqaa-s
+lvspalsipke---gkssv----clkdsslfgisfs--dhlksefssstlrckrelnqqi
+--g-airaqt-tatespavnkatpdgkktlrkgs-vvitgassglglatakalaetgkwh
+vimacrdflkaeraaksagit---kenytvmhldlasldsvrqfvdnfr-qsgrpldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrllledln-kssyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglkss-midgge-fdgakay
+kdskvcnmltmqefhkryheetgitfaslypgciattglfrehiplfrilfppfqkfitq
+gyvsedeagkrlaqvvsepsltksgvywswnknsa-----sfenqlsqeasdaekarkvw
+elseklvgla
+[70] Nicotiana_tabacum_1630
+------------------------------------------------------lqaa-a
+lvpsafsiske-------gkasanlknsslfgvsls--dysksdfgsssfkvksqrrlsn
+--g-avratm-vas--pdvttnspagkktlrkgc-vivtgassglglatakalsetgkwh
+vimacrdflkaekaaksvgmp---kenytimhldlasldsvrqfvdnfr-rsgrpldvlv
+anaavyqptakepsftaegfeisvgtnhlghfllsrlllddlk-qsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrgmagglnginssamidgge-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitk
+gfvseteagkrlaqvvsdpsltksgvywswnkdsa-----sfenqlseeasdvekarkvw
+evseklvgla
+[71] Pisum_sativum_1640
+------------------------------------------------------lqta-s
+mlpasfsipke---gkiga----slkdstlfgvssl--sdslkgdftssalrckelrqkv
+--g-avraet-aapatpavnksssegkktlrkgn-vvitgassglglatakalaesgkwh
+vimacrdylkaaraaksagla---kenytimhldlasldsvrqfvdnfr-rsempldvli
+nnaavyfptakepsftadgfeisvgtnhlghfllsrllledlk-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglaggltglnssamidggd-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvseeesgkrlaqvvsdpsltksgvywswnnasa-----sfenqlsqeasdaekarkvw
+evseklvgla
+[72] Lycopersicon_esculentum_1718
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-----rdflkaekaakslgip---kvnytvmhldlaslesvrqfvdnfr-rsgrpldalv
+cnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdyp-----------
+qkrliivgsitgntntlagnvp-pka-nlgdlrglsgglnslncspmidgge-fdgakay
+kdskvcnmltmqeyhrrfheetgiafaslypgciaetglfrnhiplfrtlfppfqkyitk
+gyvseeeagkrlaqvvrdpslsksgvywswnstss-----sfenqlskeasdaekarklw
+evseklvgla
+[73] Pinus_mugo_1764
+-----------------------------------------------------------s
+vafalqkeggh----------sasakdsaflgvslv--ehgkkefsfpvirakkvtsrnt
+nvp-riraqt-vaa--pvetkdapaskktdrkgn-viitgassglglatakalgesgkwh
+iimacrdflkaermarsvgip---kenysvmhldlaslesvrqfadnfr-rsgrpldvlv
+cnaaiylptaklptytaegfelsvgtnhlghfllsrllledlk-tsdfn-----------
+skrviivgsitgntntlagnvp-pka-nlgdlrglagglngvnispmidgge-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitk
+gfvseeeagkrlaqvvsnpsltksgvywswnnnsg-----sfenqlseeasdpekakklw
+eiseklvgla
+[74] Vigna_radiata_1796
+------------------------------------------------------vqaa-s
+lvsgyfsvake---gkpgm----slrnttmfglsle--dalkadfsslsfsckrefqkkv
+--c-plrvqs-vat-tpgvtkaspegkktlrkgs-viitgassglglatakalaetgkwh
+vimacrdflkaeraakssgis---kenytvmhldlasldsvrqfvdnfr-qsgrpldvlv
+cnaavylptasepthtadgfelsvgtnhlghfllsrllledln-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglagglnglntsamidggs-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkfitk
+gfvsedesgkrlaqvv--------------------------------------------
+eitnkrlwrw
+[75] Ricinus_communis_1846
+--------------------------------------------------------as-s
+lvsstfvvlke---gkssa----sfkdsslfgvsls--dhlkadhsssafrfkrepnqrv
+--g-avraqt-mataspavnraapegkktlrkgs-vivtgassglglatakalaetgkwh
+iimacrdflkteraaksagis---kenytimhldlasldsvrqfvdnfk-rsgrpldvlv
+cnaavylptakeptftaegfelsvgtnhlghfllsrllledlq-ksdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdmrglagglnglnssamidggn-fdgakay
+kdskvcnmlimqefhrrfheetgitfaslypgciattglfrehiplfrtlfppfqkyitk
+gyvsedeagkrlaqvvsdpsltksgvywswnkdsa-----sfenqlsqeasdadkarkvw
+eiseklvgla
+[76] Ricinus_communis_1868
+------------------------------------------------------lkap-s
+tlpssisicke-------gksnvslkeagffgvsvslpnhlkaecnyslvrskelkkrat
+ptg-tiraqt-att-tpaideaapvakktlrkgn-vivtgassglglatakalaetgewn
+vimacrnflkaeraaksvgip---kenytvmhldlasldsvrqfagnfr-qsgmpldvlv
+cnaavyfpiakeptftaegfelsvgtnhlghfllarlllddlk-qsdyp-----------
+skrliivgsitgntntlagnvp-pka-nlgdlrglvgglnglnsspmidgge-fdgakay
+kdskvcnmltmqefhrryheetgvafaslypgciaetglfrehiplfrllfppfqkyitk
+gyvseevagkrlaqvvsdpslgksgvywswnqyss-----sfenqlseeasdtekakklw
+eiseklvgla
+[77] Musa_acuminata_1900
+---------------------------------------------------------asf
+lpsalsarkeg--------kvactvkesaflgssil-----ehhkshpvlrtkresnhsv
+----gvvkaqttavaapglnqsavhgkkvlrkgv-vvitgassglglaaakalaetekwh
+vvmacrdflkaekaaqsagma---kenysimhldlasldsvrqfvhafr-qsgrpldvlv
+cnaaiyrptartptytadgyemsvgvnhlghfllanmlledlk-ksdyp-----------
+srrliilgsitgntntlagnvp-pka-glgdlrglaggldgrnssamidgg-afdgakay
+kdskicnmltmqelhrrfhedtgitfaslypgciattglfrehiplfrllfppfqkfitk
+gfvsedesgqrlaqvvgdpsllksgvywswnnnsa-----sfenqlseeasdavkaqklw
+eiseklvgla
+[78] Hordeum_vulgare_subsp._vulgare_&gt_gi|227065|prf||1613434A_protochlorophyllide_oxidoreductase_1910
+------------------------------------------------------alqllp
+stlsvpkkgss--------mgavavkdtaaflgvss-----kakkaslavrtq-------
+-----vatapspvttspgstasspsgkktlrqgv-vvitgassglglaaakalaetgkwh
+vvmacrdflkaskaakaagma---dgsytvmhldlasldsvrqfvdafr-raempldvlv
+cnaaiyrptartptftadghemsvgvnhlghfllarllmedlq-ksdyp-----------
+srrmvivgsitgnsntlagnvp-pka-slgdlrglagglsgasgsamidgdesfdgakay
+kdskvcnmltmqefhrryheetgitfsslypgciattglfrehiplfrtlfppfqkfvtk
+gfvseaesgkrlaqvvaepvltksgvywswnkdsa-----sfenqlsqeasdpekarkvw
+elseklvgla
+[79] Oryza_sativa_Japonica_Group_1916
+----------------------------------------------------------aa
+llpsalsvpkk--------gnlsavvkepgflsvsq-----kakkpslvvrav-------
+-----atpaap--vaspgagtskadgkktlrqgv-vvitgassglglaaakalaetgkwh
+vvmacrdflkaataakaagma---agsytvmhldlasldsvrqfvdnfr-rsgmpldalv
+cnaaiyrptarqptftadgyemsvgvnhlghfllarlmlddlk-ksdyp-----------
+srrliilgsitgntntlagnvp-pka-glgdlrglagglrgqngsamidgaesfdgakay
+kdskicnmltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqrfvtk
+gfvseaesgkrlaqvvgdpsltksgvywswnkdsa-----sfenqlsqeasdpekarklw
+dlseklvgl-
+[80] Pinus_strobus_1942
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------renytvmhldlaslesvrqfvdnfr-qsgrpmdvlv
+cnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfk-----------
+skrviivgsitgntntlagnip-pka-nlgdlrglsarlngvnsspmidgge-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehvppfrllfppfqkyitk
+gfvseeeagkrlaqvvsdpsltksgvywswnndsa-----sfenqlseeasdpgkarkvw
+eiseklvgla
+[81] Amaranthus_tricolor_1946
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------kwh
+vimacrdflkaeraaksagma---kenytimhldlasldsvrqfvnnfr-qsgrpldvlv
+cnaavylptareptytaegfelsvgtnhlghfllsrllledlk-ksdyp-----------
+strliivgsitgntntlagnvp-pka-nlgdmrglagglnglnssamidggd-fdgakay
+kdskvcnmltmqefhrryheetgitfaslypgciattglfrehiplfrflfppfqkyitk
+g-----------------------------------------------------------
+----------
+[82] Amaranthus_tricolor_1948
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------kwh
+vimacrdflkaeraakrigmp---kdsytvmhldlaslesvrqfvenfr-rsgmpldvlv
+cnaavylptdkeptftaegfelsvgtnhlghfllsrlllddlk-qsdyp-----------
+skrliivgsitgnsntlagnvp-pka-nlgdlrglagglngvnsspmidgge-fdgakay
+kdskvcnmltmqefhrrfheetgitfsslypgciaetglfrnhvalfrtlfppfqkyitk
+------------------------------------------------------------
+----------
+[83] Arabidopsis_thaliana_1954
+----------------------------------------------------malqaays
+llpstisiqke-------gkfnaslkettftgssfs--nhlraekistlltik--rrqkp
+rfstgiraqt-vta-tppaneaspeqkkterkgt-avitgassglglatakaladtgkwh
+vimacrnflkaekaarsvgms---kedytvmhldlaslesvkqfvenfr-rteqpldvlv
+cnaavyqptakepsftaegfeisvgtnhlghfllsrlllddlk-ksdyp-----------
+skrmiivgsitgntntlagnvp-pka-nlgdlrglasglngqnss-midgge-fdgakay
+kdskvcnmltmqelhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitk
+gyvseeeagkrlaqvvsdpslgksgvywswnnnss-----sfenqlskeasdaekakklw
+evseklvgla
+[84] Nicotiana_tabacum_1980
+----------------------------------------------------malqaa-s
+llpsafsihke-------gkscatlkdsslfgvals--ynqkskfippaawnkeltkk--
+iaa-vpiraq-iaattpavnqstseqkktlrkgn-viitgassglglatakaigetgewh
+vimacrdflkaekaaksvgip---kenytvmhldlaslesvrqfvdtfr-rsgrpldalv
+cnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdyp-----------
+qkrliivgsitgntntlagnvp-pka-nlgdlrglsgglnslncspmidgge-fdgakay
+kdskvcnmltmqefhrrfheetgiafaslypgciaetglfrnhiplfralfppfqkyitk
+gyvseaeagkrlaqvvrdpslsksgvywswnntss-----sfenqlskeasdaekarklw
+evseklvgla
+;
+END;

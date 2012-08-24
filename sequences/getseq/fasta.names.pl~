@@ -1,0 +1,27 @@
+#!/usr/bin/perl -w
+use strict;
+
+my @infile;
+my $infile;
+my @output;
+my @taxa_name;
+my $taxa_name;
+my $i;
+
+@infile= <>;
+
+my $inputlength = scalar @infile-1;
+
+        for ($i=0; $i<=$inputlength; $i++){
+                if (!$infile[$i]) { next; }                     # If you find an empty line -> move on!
+                if ($infile[$i] =~ m/>/){                    # If a line contains/starts with a ">"...
+                    $infile[$i] =~ s/.*?\[//gi;                 # Remove everything up to the "[" character.
+                    $infile[$i] =~ s/\].*?//gi;                 # Remove everything after the "]" character.
+                    $infile[$i] =~ s/\s/_/gi;
+                        push (@output, ">$infile[$i]$i\n");
+                        push (@output, $infile[$i+1]);          # ... and the next line with the sequence.
+
+                }
+        }
+        print (@output);
+exit;

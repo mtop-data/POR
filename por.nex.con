@@ -1,0 +1,118 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=38;
+	taxlabels
+	atPORA
+	csPORA
+	Vigna_radiata
+	Populus_trichocarpa-1
+	Ricinus_communis-1
+	hvPORA
+	taPORA
+	asPOR
+	Oryza_sativa-A
+	Zea_mays-A
+	Musa_acuminata
+	hvPORB
+	Zea_mays-B
+	Oryza_sativa-B
+	crPOR
+	Micromonas_pusilla
+	Ostreococcus_tauri
+	pbPOR
+	Dinoroseobacter_shibae
+	sPOR
+	Microcystis_aeruginosa
+	Acaryochloris_marina
+	mpPOR
+	Physcomitrella_patens
+	Picea_sitchensis-1
+	Picea_sitchensis-2
+	Pinus_mugo
+	Nicotiana_tabacum-1
+	atPORC
+	Ricinus_communis-2
+	Populus_trichocarpa-2
+	Vitis_vinifera-2
+	Nicotiana_tabacum-2
+	Vitis_vinifera-1
+	dcPOR
+	psPOR
+	atPORB
+	Chorispora_bungeana-B
+;
+end;
+
+begin trees;
+	tree con_50_majrule = [&R] (atPORA:0.080809,((((csPORA:0.061677,Vigna_radiata:0.160257)[&label=0.99]:0.017885,(Populus_trichocarpa-1:0.088828,Ricinus_communis-1:0.053217)[&label=1.0]:0.024228)[&label=1.0]:0.018669,(((((((hvPORA:0.016307,taPORA:0.006465)[&label=1.0]:0.021213,asPOR:0.022581)[&label=1.0]:0.064449,(Oryza_sativa-A:0.077095,Zea_mays-A:0.06759)[&label=0.9]:0.03267)[&label=1.0]:0.093616,Musa_acuminata:0.123811)[&label=1.0]:0.079829,(hvPORB:0.052571,(Zea_mays-B:0.0444,Oryza_sativa-B:0.055462)[&label=0.96]:0.028757)[&label=1.0]:0.091514)[&label=1.0]:0.032802,((((crPOR:0.246972,(Micromonas_pusilla:0.282824,Ostreococcus_tauri:0.395543)[&label=1.0]:0.26514)[&label=0.82]:0.075143,(((pbPOR:0.057526,Dinoroseobacter_shibae:0.364646)[&label=1.0]:0.089746,sPOR:0.185878,Microcystis_aeruginosa:0.258557)[&label=1.0]:0.101599,Acaryochloris_marina:0.201669)[&label=1.0]:0.228803)[&label=1.0]:0.120148,(mpPOR:0.227546,Physcomitrella_patens:0.191185)[&label=0.96]:0.052682)[&label=1.0]:0.066715,(Picea_sitchensis-1:0.054312,(Picea_sitchensis-2:0.034566,Pinus_mugo:0.026656)[&label=1.0]:0.018444)[&label=1.0]:0.111069)[&label=1.0]:0.046112)[&label=1.0]:0.0339,Nicotiana_tabacum-1:0.098397)[&label=0.57]:0.024793,((((atPORC:0.142284,(Ricinus_communis-2:0.091425,Populus_trichocarpa-2:0.072456)[&label=1.0]:0.029235)[&label=0.97]:0.026988,Vitis_vinifera-2:0.055791)[&label=0.98]:0.030241,Nicotiana_tabacum-2:0.134468)[&label=1.0]:0.025889,Vitis_vinifera-1:0.073756)[&label=0.84]:0.02373,dcPOR:0.105419)[&label=0.58]:0.023586,psPOR:0.079795)[&label=1.0]:0.061244,(atPORB:0.040674,Chorispora_bungeana-B:0.026917)[&label=1.0]:0.045282);
+	tree con_50_majrule = [&R] (atPORA:0.080809,((((csPORA:0.061677,Vigna_radiata:0.160257):0.017885,(Populus_trichocarpa-1:0.088828,Ricinus_communis-1:0.053217):0.024228):0.018669,(((((((hvPORA:0.016307,taPORA:0.006465):0.021213,asPOR:0.022581):0.064449,(Oryza_sativa-A:0.077095,Zea_mays-A:0.06759):0.03267):0.093616,Musa_acuminata:0.123811):0.079829,(hvPORB:0.052571,(Zea_mays-B:0.0444,Oryza_sativa-B:0.055462):0.028757):0.091514):0.032802,((((crPOR:0.246972,(Micromonas_pusilla:0.282824,Ostreococcus_tauri:0.395543):0.26514):0.075143,(((pbPOR:0.057526,Dinoroseobacter_shibae:0.364646):0.089746,sPOR:0.185878,Microcystis_aeruginosa:0.258557):0.101599,Acaryochloris_marina:0.201669):0.228803):0.120148,(mpPOR:0.227546,Physcomitrella_patens:0.191185):0.052682):0.066715,(Picea_sitchensis-1:0.054312,(Picea_sitchensis-2:0.034566,Pinus_mugo:0.026656):0.018444):0.111069):0.046112):0.0339,Nicotiana_tabacum-1:0.098397):0.024793,((((atPORC:0.142284,(Ricinus_communis-2:0.091425,Populus_trichocarpa-2:0.072456):0.029235):0.026988,Vitis_vinifera-2:0.055791):0.030241,Nicotiana_tabacum-2:0.134468):0.025889,Vitis_vinifera-1:0.073756):0.02373,dcPOR:0.105419):0.023586,psPOR:0.079795):0.061244,(atPORB:0.040674,Chorispora_bungeana-B:0.026917):0.045282);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="User Selection";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=1.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User Selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="Arial";
+	set branchLabels.fontSize=10;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.colorAttribute="User Selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=2.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.colorAttribute="User Selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=10;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=true;
+	set trees.transformType="cladogram";
+end;
+

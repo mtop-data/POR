@@ -1,0 +1,505 @@
+#NEXUS
+[saved by seaview on Sat Apr  4 11:27:22 2009]
+BEGIN DATA;
+  DIMENSIONS NTAX=55 NCHAR=422;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] 'Oryza_sativa__japonica_cultivar-group__3000'
+----malqaatttsflpsalsarkegavkdsafl-----------gvrlgdglkletsal
+glrtkrvstssvairaqasaavssptvtpaspsgkqtlrkgtavitgassglglatakal
+aetgrwhvvmgcrdflkasraakaagmekgsytivhldlasldsvrqfvanvrrlempvd
+vvvcnaavyqptakqpsftadgfemsvgvnhlghfllarelladlt-ssdypskrliivg
+sitgntntlagnvppka--nlgdlrglasgldgvsssamidgge-fdgakaykdskvcnm
+ltmqefhrryhgetgvtfaslypgciattglfrehvplfrllfppfqkyitkgyvseeea
+gkrlaqvvsdpsltksgvywswnnnsa----sfenqlseeasdpekakkvwelseklvgl
+--
+[2] Pinus_mugo_3032
+------mgtllqthigsvafalqke---gghsasakdsaflgv--slvehgkkefsfpvi
+rakkvtsrntnvpriraqtvaa--pvetkdapaskktdrkgnviitgassglglatakal
+gesgkwhiimacrdflkaermarsvgipkenysvmhldlaslesvrqfadnfrrsgrpld
+vlvcnaaiylptaklptytaegfelsvgtnhlghfllsrllledlk-tsdfnskrviivg
+sitgntntlagnvppka--nlgdlrglagglngvnispmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitkgfvseeea
+gkrlaqvvsnpsltksgvywswnnnsg----sfenqlseeasdpekakklweiseklvgl
+--
+[3] Picea_sitchensis_3034
+------mgtllqthigsvalalqke---gghsastkdsaflgv--slvehgkkefsfpvi
+rakkvtsrntsvpriraqtvaa--pvetkeapaskktdrkgnviitgassglglatakal
+gesgewhiimacrdflkaermaravgipkenytvmhldlaslesvrqfadtfrrsgrpld
+vlvcnaavyfptakvptftaegfemsvgtnhlghfllsrllledlk-ksdfdskrviivg
+sitgntntlagnippka--nlgdlrgfagglngvnispmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfkllfppfqkyitkgfvsedea
+gkrlaqvvsnpslaksgvywswnnnsa----sfenqlseeasdpekakkvweiseklvel
+--
+[4] Pinus_strobus_3058
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------nytvmhldlaslesvrqfvdnfrqsgrpmd
+vlvcnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfkskrviivg
+sitgntntlagnippka--nlgdlrglsarlngvnsspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehvppfrllfppfqkyitkgfvseeea
+gkrlaqvvsdpsltksgvywswnndsa----sfenqlseeasdpgkarkvweiseklvgl
+--
+[5] Nicotiana_tabacum_3078
+-------malqaaalvpsafsiske---gkasanlknsslfgv--slsdysksdfg--ss
+sfkvksqrrlsngavratmvas--pdvttnspagkktlrkgcvivtgassglglatakal
+setgkwhvimacrdflkaekaaksvgmpkenytimhldlasldsvrqfvdnfrrsgrpld
+vlvanaavyqptakepsftaegfeisvgtnhlghfllsrlllddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrgmagglnginssamidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitkgfvsetea
+gkrlaqvvsdpsltksgvywswnkdsa----sfenqlseeasdvekarkvwevseklvgl
+a-
+[6] Vitis_vinifera_3086
+-------malqaasllpsavsihke---gksnaslketgffev--svsdhlkaels--la
+slqelkrrklpvgviraqtatt--paisqaspegkktlrkgnviitgassglglatakal
+aetekwhiimacrnflkadraaksagiakenytvmhldlaslesvrqfadnfrrsgrpld
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrlllddlk-qtdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglngingspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlaqvvtdpsltksgvywswnknsa----sfqnqlsqeasdaekarkvweiseklvgl
+a-
+[7] Hordeum_vulgare_3106
+------malqaatsflpsalsarkegaakdsaff-----------gvrladglkldatsl
+glrtkrvntssva-iraqaaavsaptatpaspagkktvrtgnaiitgassglglatakal
+aesgkwhvimacrdylktaraaraagmpkgsytivhldlasldsvrqfvknvrqldmpid
+vvvcnaavyqptakepsftadgfemsvgvnhlghfllarelledlk-asdypskrliivg
+sitgntntlagnvppka--nlgdlrglaaglngvgsaamidgae-fdgakaykdskvcnm
+ltmqefhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlaqvvsepsltksgvywswnknsa----sfenqlseeasdtekarkvwelseklvgl
+a-
+[8] Ricinus_communis_3108
+-------malkapstlpssisicke---gksnvslkeagffgvsvslpnhlkaecnyslv
+rskelkkratptgtiraqtatt-tpaideaapvakktlrkgnvivtgassglglatakal
+aetgewnvimacrnflkaeraaksvgipkenytvmhldlasldsvrqfagnfrqsgmpld
+vlvcnaavyfpiakeptftaegfelsvgtnhlghfllarlllddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrglvgglnglnsspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgvafaslypgciaetglfrehiplfrllfppfqkyitkgyvseeva
+gkrlaqvvsdpslgksgvywswnqyss----sfenqlseeasdtekakklweiseklvgl
+a-
+[9] Musa_acuminata_3130
+--------malqasflpsalsarke---gkvactvkesaflgs-------silehhkshp
+vlrtkresnhsvgvvkaqttavaapglnqsavhgkkvlrkgvvvitgassglglaaakal
+aetekwhvvmacrdflkaekaaqsagmakenysimhldlasldsvrqfvhafrqsgrpld
+vlvcnaaiyrptartptytadgyemsvgvnhlghfllanmlledlk-ksdypsrrliilg
+sitgntntlagnvppka--glgdlrglaggldgrnssamidgga-fdgakaykdskicnm
+ltmqelhrrfhedtgitfaslypgciattglfrehiplfrllfppfqkfitkgfvsedes
+gqrlaqvvgdpsllksgvywswnnnsa----sfenqlseeasdavkaqklweiseklvgl
+a-
+[10] Vigna_radiata_3148
+-------mavqaaslvsgyfsvake---gkpgmslrnttmfgl--sledalkadfs--sl
+sfsckrefqkkvcplrvqsvat-tpgvtkaspegkktlrkgsviitgassglglatakal
+aetgkwhvimacrdflkaeraakssgiskenytvmhldlasldsvrqfvdnfrqsgrpld
+vlvcnaavylptasepthtadgfelsvgtnhlghfllsrllledln-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglntsamidggs-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkfitkgfvsedes
+gkrlaqvv----------------------------------------------------
+--
+[11] Zea_mays_3172
+------malqaatsflpsalsarkegssvkdsaf-----------lgvhladdglkleta
+alglrtkrvitsvairaqaaavsspsvtpaspsgkktlrkgtaiitgassglglatakal
+aetgkwhvimacrdflkasraakaagmdkdsftvvhldlasldsvrqfvknvrqlempvd
+vvvcnaavyqptakepsytadgfemsvgvnhlghfllarellsdlq-ssdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglngiggsamidgge-fdgakaykdskvcnm
+ltmqefhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlsqvvsdpsltksgvywswnknsa----sfenqlseeasdadkakklweiseklvgl
+a-
+[12] Arabidopsis_thaliana_3182
+-------malqaaslvssafsvrkdgklnasasssfkesslfgv-slseqskadfvsssl
+rckreqslrnnkaiiraqaiatstpsvtkssldrkktlrkgnvvvtgassglglatakal
+aetgkwhvimacrdflkaeraaqsagmpkdsytvmhldlasldsvrqfvdnfrraempld
+vlvcnaavyqptanqptftaegfelsvginhlghfllsrlliddlk-nsdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglnssamidggd-fvgakaykdskvcnm
+ltmqefhrrfhedtgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvsesea
+gkrlaqvvadpsltksgvywswnktsa----sfenqlsqeasdvekarrvwevseklvgl
+a-
+[13] Marchantia_paleacea_var._diptera_3258
+----------------slgsalsvssaalsqnvsvsnnatkesaflglrmgevakfggal
+lsvstvaanlkskpgvlsvnavtapaetmnkpsskktatkstciitgassglglatakal
+adtgewhvimacrdflkaeraarsvgipkdsytvihcdlasfdsvrafvdnfrrterqld
+vlvcnaavyfptdkepkfsaegfelsvgtnhmghfllarllmedlq-kakdslkrmiivg
+sitgnsntvagnvppka--nlghlrglagglngvnsssmidgge-fdgakaykdskvcnm
+ftmqefhrryhaetgitfsslypgciaetglfrnhvtlfrtlfppfqkyitkgyvseeea
+gkrmaqvvsdpklsksgvywswnkdsg----sfenelseeasnpekakrlwelserlsgl
+--
+[14] Avena_sativa_3268
+------------------------------------------------------------
+-------------------------------------------vitgassglglaaakal
+aetgkwhvvmacrdflkaskaakaagmadgsytvmhldlasldsvrqfvdafrraempld
+vlvcnaaiyrptarkptftaegvemsvgvnhlghfllarllledlq-ksdypsrrlvivg
+sitgndntlagnvppka--nlgdlrglaggltgasgsamidgdesfdgakaykdskvcnm
+ltmqefhrryhedtgitfsslypgciattglfrehiplfrtlfppfqkfvtkgfvseaes
+gkrlaqvvgepsltksgvywswnkdsa----sfenqlsqeasdpekarkvwelseklvgl
+a-
+[15] Vitis_vinifera_3290
+-------mamqaaalvpsafsipke---gkgsasfkesglfgv--slsdhvkadfs--ss
+alrnkrkps--vgairaqtaat-tpaitratpegkktlrkgtvvitgassglglattkal
+aetgkwhiimacrdflkaeraarsaglskenytvmhldlasldsvrqfvdnfkrserpld
+vlvcnaavylptakeptftadgfelsvgtnhlghfllarlllddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrgmagglnglnssamidgga-fdgakaykdskvcnm
+ltmqefhrryhedtgitfaslypgciattglfrehiplfrllfppfqkfitkgyvseees
+gkrlaqvvsepsltksgvywswnknsa----sfenqlsqeasdadkarkvwelseklvrl
+a-
+[16] Ricinus_communis_3410
+-----------asslvsstfvvlke---gkssasfkdsslfgv--slsdhlkadhs--ss
+afrfkrepnqrvgavraqtmataspavnraapegkktlrkgsvivtgassglglatakal
+aetgkwhiimacrdflkteraaksagiskenytimhldlasldsvrqfvdnfkrsgrpld
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledlq-ksdypskrliivg
+sitgntntlagnvppka--nlgdmrglagglnglnssamidggn-fdgakaykdskvcnm
+limqefhrrfheetgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvsedea
+gkrlaqvvsdpsltksgvywswnkdsa----sfenqlsqeasdadkarkvweiseklvgl
+a-
+[17] Pisum_sativum_3424
+-------malqtasmlpasfsipke---gkigaslkdstlfgvs-slsdslkgdf---ts
+salrckelrqkvgavraetaapatpavnksssegkktlrkgnvvitgassglglatakal
+aesgkwhvimacrdylkaaraaksaglakenytimhldlasldsvrqfvdnfrrsempld
+vlinnaavyfptakepsftadgfeisvgtnhlghfllsrllledlk-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglaggltglnssamidggd-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvseees
+gkrlaqvvsdpsltksgvywswnnasa----sfenqlsqeasdaekarkvwevseklvgl
+a-
+[18] Chlamydomonas_reinhardtii_3514
+---------------maltmsaksvsaraqvsskaqaapavavsgrtssrvmpapalaar
+ssvartplvvcaatatapspsladkfkpnaiarvpatqqkqtaiitgassglglnaakal
+aatgewhvvmacrdflkaeqaakkvgmpagsysilhldlsslesvrqfvqnfkasgrrld
+alvcnaavylptakeprftadgfelsvgtnhlghflltnlllddlk-napnkqprciivg
+sitgntntlagnvppka--nlgdlsglaagvpaan--pmmdgqe-fngakaykdskvacm
+mtvrqmhqrfhdatgitfaslypgciaetglfrehvplfktlfppfqkyitkgyvseeea
+grrlaavisdpklnksgaywswssttg----sfdnqvseevaddskasklwdisaklvgl
+sa
+[19] Nicotiana_tabacum_3516
+------------------------------------------------------------
+------------------------------------tlrkgnviitgassglglatakai
+getgewhvimacrdflkaekaaksvgipkenytvmhldlaslesvrqfvdtfrrsgrpld
+alvcnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdypqkrliivg
+sitgntntlagnvppka--nlgdlrglsgglnslncspmidgge-fdgakaykdskvcnm
+ltmqefhrrfheetgiafaslypgciaetglfrnhiplfralfppfqkyitkgyvseaea
+gkrlaqvvrdpslsksgvywswnntss----sfenqlskeasdaekarklwevseklvgl
+a-
+[20] Pinus_mugo_3520
+------------------------------------------------------------
+------------------------------------tdrkgnviitgassglglatakal
+gesgkwhiimacrdflkaermarsvgipkenysvmhldlaslesvrqfadnfrrsgrpld
+vlvcnaaiylptaklptytaegfelsvgtnhlghfllsrllledlk-tsdfnskrviivg
+sitgntntlagnvppka--nlgdlrglagglngvnispmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkyitkgfvseeea
+gkrlaqvvsnpsltksgvywswnnnsg----sfenqlseeasdpekakklweiseklvgl
+a-
+[21] Arabidopsis_thaliana_3526
+------------------------------------------------------------
+------------------------------------terkgtavitgassglglatakal
+adtgkwhvimacrnflkaekaarsvgmskedytvmhldlaslesvkqfvenfrrteqpld
+vlvcnaavyqptakepsftaegfeisvgtnhlghfllsrlllddlk-ksdypskrmiivg
+sitgntntlagnvppka--nlgdlrglasglngqnss-midgge-fdgakaykdskvcnm
+ltmqelhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlaqvvsdpslgksgvywswnnnss----sfenqlskeasdaekakklwevseklvgl
+a-
+[22] Daucus_carota_3530
+------------------------------------------------------------
+------------------------------------tlrkgsviitgassglglatakal
+aetgkwhvimacrdflkaeraaksagmpkenytimhldlasldsvrqfvetfrrserpld
+vlvcnaavyfptakeptytadgfelsvgtnhlghfllsrlllddln-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglngmnssamidgae-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvseaes
+gkrlaqvvsepsltksgvywswnkdsa----sfenqlseeasdvekarkvwevseklvgl
+a-
+[23] Populus_trichocarpa_3532
+------------------------------------------------------------
+------------------------------------tlrkcvvvitgtssglglatakal
+setgqchvimacrnflkaeraaktagipkenytvmhldlaslesvrqfvdtfrrsgmpld
+vlvcnaavylptakeptytaegfelsvgtnhlghfllarlllddlk-ksdyptkrliivg
+sitgntntlagnvppka--nlgdlrglvgglndlnsspmidgge-fdgakaykdskvcnm
+ltmqelhrryheetgitfaslypgciaetglfrnhiplfrtlfppfqkyitkgyvseeea
+gkrlaqvvsdpsltksgvywswnknss----sfenqlskeasnaekalklweiseklvgl
+a-
+[24] Ricinus_communis_3536
+------------------------------------------------------------
+------------------------------------tlrkgnvivtgassglglatakal
+aetgewnvimacrnflkaeraaksvgipkenytvmhldlasldsvrqfagnfrqsgmpld
+vlvcnaavyfpiakeptftaegfelsvgtnhlghfllarlllddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrglvgglnglnsspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgvafaslypgciaetglfrehiplfrllfppfqkyitkgyvseeva
+gkrlaqvvsdpslgksgvywswnqyss----sfenqlseeasdtekakklweiseklvgl
+a-
+[25] Ricinus_communis_3546
+------------------------------------------------------------
+------------------------------------tlrkgsvivtgassglglatakal
+aetgkwhiimacrdflkteraaksagiskenytimhldlasldsvrqfvdnfkrsgrpld
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledlq-ksdypskrliivg
+sitgntntlagnvppka--nlgdmrglagglnglnssamidggn-fdgakaykdskvcnm
+limqefhrrfheetgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvsedea
+gkrlaqvvsdpsltksgvywswnkdsa----sfenqlsqeasdadkarkvweiseklvgl
+a-
+[26] Populus_trichocarpa_3550
+------------------------------------------------------------
+------------------------------------tlrqgccivtgassglglaaakal
+aetgkwhvimacrdflkaeraaksagiakenctimhldlasldsvrqfvdtfkrsgrald
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledmk-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglnssamidgge-fdgakaykdskvcnm
+ltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqkyitkgfvseeda
+gkrlaqvvsdpsltksgvywswnkdsa----sfenqlsqeasdeekarkvwevseklvgl
+a-
+[27] Cucumis_sativus_3560
+------------------------------------------------------------
+------------------------------------tlrkgsvvitgassglglatakal
+aetgkwhvimacrdflkaeraaksagitkenytvmhldlasldsvrqfvdnfrqsgrpld
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledln-kssypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglkss-midgge-fdgakaykdskvcnm
+ltmqefhkryheetgitfaslypgciattglfrehiplfrilfppfqkfitqgyvsedea
+gkrlaqvvsepsltksgvywswnknsa----sfenqlsqeasdaekarkvwelseklvgl
+a-
+[28] Vigna_radiata_3564
+------------------------------------------------------------
+------------------------------------tlrkgsviitgassglglatakal
+aetgkwhvimacrdflkaeraakssgiskenytvmhldlasldsvrqfvdnfrqsgrpld
+vlvcnaavylptasepthtadgfelsvgtnhlghfllsrllledln-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglntsamidggs-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrllfppfqkfitkgfvsedes
+gkrlaqvvsdpsltksgvywswnkasa----sfenqlsqeasdadkarkvweiseklvgl
+a-
+[29] Populus_trichocarpa_3570
+------------------------------------------------------------
+------------------------------------tlgqgtcivtgassglglatakal
+aetgkwhiimacrnflkaeraaksagiakenytimhldlasldsvrqfvdtfrrsgrpld
+vlvcnaavylptakepaftaegfelsvgtnhlghfllsrllledmk-isdypskrliivg
+sitgntntlagnvppka--nlgdlrglsgglnglnrsamidggv-fdgakaykdskvcnm
+ltmqefhrrlheetgiafaslypgciattglfrehiplfrllfppfqkyitkgfvsehea
+gkrlaqvvsdpsltksgaywswnkhsa----sfqnqlsqeasdaekarkvweiseklvgl
+a-
+[30] Vitis_vinifera_3580
+------------------------------------------------------------
+------------------------------------tlrkgtvvitgassglglattkal
+aetgkwhiimacrdflkaeraarsaglskenytvmhldlasldsvrqfvdnfkrserpld
+vlvcnaavylptakeptftadgfelsvgtnhlghfllarlllddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrgmagglnglnssamidgga-fdgakaykdskvcnm
+ltmqefhrryhedtgitfaslypgciattglfrehiplfrllfppfqkfitkgyvseees
+gkrlaqvvsepsltksgvywswnknsa----sfenqlsqeasdadkarkvwelseklvrl
+a-
+[31] Chorispora_bungeana_3626
+-------mtlqaaslvssafsvrkdgklnassssfkdsslfgv--sitdliksehg--ss
+sirfkrehnlrnvairaqtaatsspsvtkssgegkktlrkgnvvvtgassglglatakal
+aetgkwhvimacrdflkaeraaksagmpkgsytvmhldlasldsvrqfvdnfrrsempld
+vlvcnaavyfptakeptysaegfelsvgtnhlghfllsrlllddlk-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglnssamidggd-fdgakaykaskvcnm
+ltmqefhrrcheetgvtfaslypgciastglfrepiplfrflfppfqkyitkgyvsetes
+gkrlaqvvsdpsltksgvywswnkasa----sfenqlsqeasdvekarkvweiseklvgl
+a-
+[32] Nicotiana_tabacum_3630
+-------malqaasllpsafsihke---gkscatlkdsslfgv--alsynqkskfippaa
+wnkeltkk--iaavpiraqiaattpavnqstseqkktlrkgnviitgassglglatakai
+getgewhvimacrdflkaekaaksvgipkenytvmhldlaslesvrqfvdtfrrsgrpld
+alvcnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdypqkrliivg
+sitgntntlagnvppka--nlgdlrglsgglnslncspmidgge-fdgakaykdskvcnm
+ltmqefhrrfheetgiafaslypgciaetglfrnhiplfralfppfqkyitkgyvseaea
+gkrlaqvvrdpslsksgvywswnntss----sfenqlskeasdaekarklwevseklvgl
+a-
+[33] Populus_trichocarpa_3632
+-------malqaasilpstvsiyke---gksnaslketgffgv--svpnnhlkaefdcsl
+ikskefrkrelpvrtiraqtatttpaiteaapeakktlrkcvvvitgtssglglatakal
+setgqchvimacrnflkaeraaktagipkenytvmhldlaslesvrqfvdtfrrsgmpld
+vlvcnaavylptakeptytaegfelsvgtnhlghfllarlllddlk-ksdyptkrliivg
+sitgntntlagnvppka--nlgdlrglvgglndlnsspmidgge-fdgakaykdskvcnm
+ltmqelhrryheetgitfaslypgciaetglfrnhiplfrtlfppfqkyitkgyvseeea
+gkrlaqvvsdpsltksgvywswnknss----sfenqlskeasnaekalklweiseklvgl
+a-
+[34] Arabidopsis_thaliana_3640
+------malqaaysllpstisiqke---gkfnaslkettftgs--sfsnhlraekistll
+tikeqrrqkprfstgiraqtvtatppaneaspeqkkterkgtavitgassglglatakal
+adtgkwhvimacrnflkaekaarsvgmskedytvmhldlaslesvkqfvenfrrteqpld
+vlvcnaavyqptakepsftaegfeisvgtnhlghfllsrlllddlk-ksdypskrmiivg
+sitgntntlagnvppka--nlgdlrglasglngqnss-midgge-fdgakaykdskvcnm
+ltmqelhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlaqvvsdpslgksgvywswnnnss----sfenqlskeasdaekakklwevseklvgl
+a-
+[35] Picea_sitchensis_3666
+---------lhqthigsaafalqke---gghsasa-nsaflgv--svaehgkrefgfpvl
+rakkvtsrntniarlraqtvaa--pvetkeapaskktdrkgnviitgassglglatakal
+gesgewhiimacrdfvkaermartvgipkenytvmhldlaslesvrqfadnfkhsgrpld
+vlvcnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfkskrviivg
+sitgntntlagnippka--nlgdlrglsgrlngvnsspmidgge-fdgakaykdskvcnm
+ltmqefhrqyheetgitfaslypgciattglfrehippfrllfppfqkyitkgfvseeea
+gkrlaqvvsdtsltksgvywswnndsa----sfenqlseeasdpekarkvwaiseklvgl
+a-
+[36] Oryza_sativa_Indica_Group_3672
+--------malqvqaallpsals-vpkkgnlsavvkepgflsv---------------sq
+-kakkpslvvrava--tpaapvaspgagtskadgkktlrqgvvvitgassglglaaakal
+aetgkwhvvmacrdflkaataakaagmaagsytvmhldlasldsvrqfvdnfrrsgmpld
+alvcnaaiyrptarqptftadgyemsvgvnhlghfllarlmlddlk-ksdypsrrliilg
+sitgntntlagnvppka--glgdlrglagglrgqngsamidgaesfdgakaykdskicnm
+ltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqrfvtkgfvseaes
+gkrlaqvvgdpsltksgvywswnkdsa----sfenqlsqeasdpekarklwdlseklvgl
+a-
+[37] Hordeum_vulgare_subsp._vulgare_&gt_gi|227065|prf||1613434A_protochlorophyllide_oxidoreductase_3676
+--------malqllpstlsvpkk--gssmgavavkdtaaflgv---------------ss
+-kakkaslavrtqvatapspvttspgstasspsgkktlrqgvvvitgassglglaaakal
+aetgkwhvvmacrdflkaskaakaagmadgsytvmhldlasldsvrqfvdafrraempld
+vlvcnaaiyrptartptftadghemsvgvnhlghfllarllmedlq-ksdypsrrmvivg
+sitgnsntlagnvppka--slgdlrglagglsgasgsamidgdesfdgakaykdskvcnm
+ltmqefhrryheetgitfsslypgciattglfrehiplfrtlfppfqkfvtkgfvseaes
+gkrlaqvvaepvltksgvywswnkdsa----sfenqlsqeasdpekarkvwelseklvgl
+a-
+[38] Physcomitrella_patens_subsp._patens_3686
+------------------aalsspptsftservtsgitasvqpsaflgtkisvckgasvl
+sravsasisrqplvapiraqgvaapadtkaptttkktdtkstviitgassglglatakvl
+adsgewhvimacrdflkaeraaravgmpkdsytvihcdlsslnsvkqfvdnvrqsgrpld
+vlvcnaavylptakeprytadgfelsvgtnhlghfllanmlmediqhkendtnrrviivg
+sitgntntiagnvppka--nlgdlrglaggldgvrssvmivgge-fdgakaykdskvcnm
+ltmqemhrrfhektgvtfaslypgciattglfrehyqlfrtlfppfqkyitkgyvseeea
+gkrlaqvvsdptlnksgvywswnnqsn----sfenelsqeasdaekakklweiseklvnl
+s-
+[39] Acaryochloris_marina_MBIC11017_3712
+------------------------------------------------------------
+--------------------------------------qkqtvvvtgassgvglyaakal
+altgkwhvimacrnflkaetaaqsvgiprdsytvihldlacfesihrfvkdfremgrsld
+alvcnaaiympllkkplhtaegyelnvgtnhlghfllcnlmledlm-rsgydqrrliilg
+tvtanpkelggkipipappdlgdmrgleagfka--pvsmingkk-fkpgkaykdsklcnm
+ltmrelhrrfhestgitfsalypgcvattglfrnhfalfrflfpkfqrfitggfvteela
+gtrvaqvvsdplfgksgvywswgnrqkegrpsfeqemsneslddtkaqrlwelseglvgl
+s-
+[40] Amaranthus_tricolor_3714
+------------------------------------------------------------
+------------------------------------------------------------
+----kwhvimacrdflkaeraakrigmpkdsytvmhldlaslesvrqfvenfrrsgmpld
+vlvcnaavylptdkeptftaegfelsvgtnhlghfllsrlllddlk-qsdypskrliivg
+sitgnsntlagnvppka--nlgdlrglagglngvnsspmidgge-fdgakaykdskvcnm
+ltmqefhrrfheetgitfsslypgciaetglfrnhvalfrtlfppfqkyitk--------
+------------------------------------------------------------
+--
+[41] Populus_trichocarpa_3740
+-------malqaaslvssafvvpke---gkssaslkessllgv--slsdhvkadfs--ss
+tlkwkrefnqrvrtvraqsmatatpavnrassdgkktlrqgccivtgassglglaaakal
+aetgkwhvimacrdflkaeraaksagiakenctimhldlasldsvrqfvdtfkrsgrald
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledmk-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglnssamidgge-fdgakaykdskvcnm
+ltmqefhrrfheetgitfaslypgciattglfrehiplfrllfppfqkyitkgfvseeda
+gkrlaqvvsdpsltksgvywswnkdsa----sfenqlsqeasdeekarkvwevseklvgl
+a-
+[42] Arabidopsis_thaliana_3750
+-------malqaaslvssafsvrkdaklnassssfkdsslfga--sitdqiksehr--ss
+slrfkreqslrnlairaqtaatssptvtksv-dgkktlrkgnvvvtgassglglatakal
+aqtgkwnvimacrdflkaeraaksvgmpkdsytvmhldlasldsvrqfvdnfrrtetpld
+vlvcnaavyfptakeptysaegfelsvatnhlghfllarlllddlk-ksdypskrliivg
+sitantntlagnvppka--nlgdlrglagglnglnssamidggd-fdgakaykdskvcnm
+ltmqefhrrfheetgvtfaslypgciastglfrehiplfralfppfqkyitkgyvsetes
+gkrlaqvvsdpsltksgvywswnnasa----sfenqlseeasdvekarkvweiseklvgl
+a-
+[43] Physcomitrella_patens_subsp._patens_3786
+------------matcvaaavsssltaltserattgitasvqssafvgikvsvckdasal
+lkavnagtsrqplvepvraqsvaapastnastsskktdtkstviitgassglglatakvl
+adsgewhvimacrdflkaeraaksvgmpkenytvmhcdlsslnsvkqfvdnfrrsgrpld
+vlvcnaavylptakeprytadgfelsvgtnhlghfllanllmediqhkennnsrrviivg
+sitgntntvagnvppka--nlgdlrglaggldgvrssvmidgge-fdgakaykdskvcnm
+ltmqemhrrfhektgvtfaslypgciattglfrehyslfrtlfppfqkyitkgyvseees
+grrlaqvvsdpsmnksgvywswnnqsg----sfenelsqeasdaekakklwevseklvgl
+a-
+[44] Arabidopsis_thaliana_3794
+------------------------------------------------------------
+------------------------------------------------------------
+---------macrdflkaeraaqsagmpkdsytvmhldlasldsvrqfvdnfrraempld
+vlvcnaavyqptanqptftaegfelsvginhlghfllsrlliddlk-nsdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglnssamidggd-fvgakaykdskvcnm
+ltmqefhrrfhedtgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvsesea
+gkrlaqvvadpsltksgvywswnktsa----sfenqlsqeasdvekarrvwevseklvgl
+a-
+[45] Zea_mays_3804
+--------mal--qaallpstlssvpkkcsiavaakdtaflsv---------------sq
+kkvqaaslsvrtrv--attapvatpgsstaakdgkktvrqgvvvitgassglglaaakal
+aetgkwhvvmacrdflkaakaakgagmadgsytimhldlasldsvrqfvdsfrragmpld
+slvcnaaiyrptartptftadgyemsvgvnhlghfllarlllddmq-ksdypsrrliilg
+sitgntntlagnippka--glgdlrglaaglrgqngsamidgsesfdgakaykdskicnm
+ltmqelhrryheetgitfaslypgciattglfrehiplfrllfppfqkfvtkgfvseaes
+gkrlahvvsdpsltksgvywswnkdsa----sfenqlsqeasdpekakklweiseklvgl
+a-
+[46] Lycopersicon_esculentum_3814
+------------------------------------------------------------
+------------------------------------------------------------
+------------rdflkaekaakslgipkvnytvmhldlaslesvrqfvdnfrrsgrpld
+alvcnaavylptakeptftadgfelsvgtnhlghfllsrlllddlk-qsdypqkrliivg
+sitgntntlagnvppka--nlgdlrglsgglnslncspmidgge-fdgakaykdskvcnm
+ltmqeyhrrfheetgiafaslypgciaetglfrnhiplfrtlfppfqkyitkgyvseeea
+gkrlaqvvrdpslsksgvywswnstss----sfenqlskeasdaekarklwevseklvgl
+a-
+[47] Pinus_strobus_3820
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------renytvmhldlaslesvrqfvdnfrqsgrpmd
+vlvcnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfkskrviivg
+sitgntntlagnippka--nlgdlrglsarlngvnsspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehvppfrllfppfqkyitkgfvseeea
+gkrlaqvvsdpsltksgvywswnndsa----sfenqlseeasdpgkarkvweiseklvgl
+a-
+[48] Lycopersicon_esculentum_3830
+-------malqaaallpstfsipke---gktsaslkdsslfgi--slsdhvksdf---gs
+sfkiksgrksslgairaetm-vaspgvtstpvtgkktlrkgcvvitgassglglatakal
+aetgkwhvimacrdflkaeraaksagmpkenytimhldlasldsvrqfvdnfrrsgnpld
+vlvcnaavyqptakepsftaegfelsvgtnhlghfllsrlliddlk-qsdypskrliivg
+sitgntntlagnvppka--nlgdlrglargldglnssamidggd-fdgakayedskv---
+------------------------------------------------------------
+------------------------------------------------------------
+--
+[49] Daucus_carota_3844
+-------malqaasflpssfsinke---gkanvslketslfgv--tfsdslrtdfs--sl
+rtrrgcrqisqtgairsqavat-tpsvnratgegkktlrkgsviitgassglglatakal
+aetgkwhvimacrdflkaeraaksagmpkenytimhldlasldsvrqfvetfrrserpld
+vlvcnaavyfptakeptytadgfelsvgtnhlghfllsrlllddln-ksdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglngmnssamidgae-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrtlfppfqkyitkgyvseaes
+gkrlaqvvsepsltksgvywswnkdsa----sfenqlseeasdvekarkvwevseklvgl
+a-
+[50] Cucumis_sativus_3852
+-------malqaaslvspalsipke---gkssvclkdsslfgi--sfsdhlksefs--ss
+tlrckrelnqqigairaqttatespavnkatpdgkktlrkgsvvitgassglglatakal
+aetgkwhvimacrdflkaeraaksagitkenytvmhldlasldsvrqfvdnfrqsgrpld
+vlvcnaavylptakeptftaegfelsvgtnhlghfllsrllledln-kssypskrliivg
+sitgntntlagnvppka--nlgdlrglagglnglkss-midgge-fdgakaykdskvcnm
+ltmqefhkryheetgitfaslypgciattglfrehiplfrilfppfqkfitqgyvsedea
+gkrlaqvvsepsltksgvywswnknsa----sfenqlsqeasdaekarkvwelseklvgl
+a-
+[51] Triticum_aestivum_3932
+--------malqllpstlsvpkk--gssmgaaavkdtaaflgv---------------ss
+-kakkaslavrtqvatapssvttspgsatakpsgkktlrqgvvvitgassglglaaakal
+aetgkwhvvmacrdflkaskaakaagmadgsytvmhldlasldsvrqfvdafrraempld
+vlvcnaaiyrptartptftadghemsvgvnhlghfllarllmedlq-ksdypsrrmvivg
+sitgnsntlagnvppka--slgdlrglagglsgasgsamidgdesfdgakaykdskvcnm
+ltmqefhrryheetgitfsslypgciattglfrehiplfrtlfppfqkfvtkgfvseaes
+gkrlaqvvaepsltksgvywswnkdsa----sfenqlsqeasdpekarkvwelseklvgl
+a-
+[52] Pinus_strobus_3938
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------renytvmhldlaslesvrqfvdnfrqsgrpmd
+vlvcnaavylptakvptftaegfelsvgtnhlghfllsrllledlk-ksdfkskrviivg
+sitgntntlagnippka--nlgdlrglsarlngvnsspmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehvppfrllfppfqkyitkgfvseeea
+gkrlaqvvsdpsltksgvywswnndsa----sfenqlseeasdpgkarkvweiseklvgl
+a-
+[53] Amaranthus_tricolor_3946
+------------------------------------------------------------
+------------------------------------------------------------
+------hvimacrdflkaeraaksagmakenytimhldlasldsvrqfvnnfrqsgrpld
+vlvcnaavylptareptytaegfelsvgtnhlghfllsrllledlk-ksdypstrliivg
+sitgntntlagnvppka--nlgdmrglagglnglnssamidggd-fdgakaykdskvcnm
+ltmqefhrryheetgitfaslypgciattglfrehiplfrflfppfqkyitkg-------
+------------------------------------------------------------
+--
+[54] Zea_mays_3954
+------malqaatsflpsalsarkegsvkdsasf-----------lgvrlaadglkldtt
+alglrtvrvsrsadiraqtaavsspsvtpaspsgkktlrkgtavitgassglglatakal
+aetgkwhvimacrdflkasraakaagmdkdsftvvhldlasldsvrqfvrnvrqlempid
+vvvcnaavyqptakepsytadgfemsvgvnhlghfllarellsdlq-ssdypskrliivg
+sitgntntlagnvppka--nlgdlrglagglngvgssvmidgge-fdgakaykdskvcnm
+ltmqefhrryheetgvtfaslypgciattglfrehiplfrllfppfqkyitkgyvseeea
+gkrlaqvvsdpsltksgvywswnknsa----sfenqlseeasdadkakklweiseklvgl
+a-
+[55] Populus_trichocarpa_3984
+-------malqaaslvssafvfpke---gksnayfkdsslfgv--slsehvkadfs--sc
+alkckrefnqgvgavraqtmvaatpaldrasseskktlgqgtcivtgassglglatakal
+aetgkwhiimacrnflkaeraaksagiakenytimhldlasldsvrqfvdtfrrsgrpld
+vlvcnaavylptakepaftaegfelsvgtnhlghfllsrllledmk-isdypskrliivg
+sitgntntlagnvppka--nlgdlrglsgglnglnrsamidggv-fdgakaykdskvcnm
+ltmqefhrrlheetgiafaslypgciattglfrehiplfrllfppfqkyitkgfvsehea
+gkrlaqvvsdpsltksgaywswnkhsa----sfqnqlsqeasdaekarkvweiseklvgl
+a-
+;
+END;
